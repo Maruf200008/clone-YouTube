@@ -6,7 +6,7 @@ import subscriptions from "../images/subscriptions.png";
 const Sidebar = () => {
   return (
     <>
-      <div className=" space-y-5  ml-[-25px] flex flex-col w-[100px] items-center">
+      <div className=" space-y-5  ml-[-25px] flex flex-col w-[100px] items-center ">
         <div>
           <button className=" text-xl text-center flex items-center flex-col hover:bg-[#3b3b3b] px-2 py-1 rounded-md transition  ">
             <AiFillHome />

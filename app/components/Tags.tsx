@@ -16,7 +16,7 @@ const Tags = () => {
     "Thrillers",
   ];
   return (
-    <div className=" flex items-center gap-3 ">
+    <div className=" flex items-center gap-3  ">
       {tags.map((tag, index) => (
         <Tag key={index} tag={tag} />
       ))}

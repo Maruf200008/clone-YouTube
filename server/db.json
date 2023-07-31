@@ -1,0 +1,59 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "thumbnails": "https://img.youtube.com/vi/FJAO6jDYljs/maxresdefault.jpg",
+      "videoUrl": "https://youtu.be/FJAO6jDYljs",
+      "title": " Project-Based Augmented Reality Course with Unity Engine and AR Foundation",
+      "chanelLogo": "../app/images/chanelLogo.png",
+      "views": "25K",
+      "channelTitle": "freeCodeCamp.org",
+      "description": "Learn Augmented Reality development in this full course for beginners. The course consists of 4 different augmented reality projects which are built on top of Unity Engine and AR Foundation. The projects explore various different fields including Engineering, Education, ECommerce and Creativity.",
+      "publishedAt": "2023-06-23T08:00:24Z"
+    },
+    {
+      "id": 2,
+      "thumbnails": "https://img.youtube.com/vi/pIsFoLAhPrk/maxresdefault.jpg",
+      "videoUrl": "https://youtu.be/pIsFoLAhPrk",
+      "title": "  Memoization - A Powerful Technique for JavaScript Optimization ",
+      "chanelLogo": "../app/images/chanelLogo.png",
+      "views": "25K",
+      "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+      "description": "Welcome to our comprehensive YouTube tutorial on Memoization in JavaScript! 🚀 In this in-depth guide, we'll unravel the power of memoization and how it can significantly enhance your code's performance and efficiency. Whether you're a beginner or an experienced developer, you'll gain valuable insights into this optimization technique.",
+      "publishedAt": "2023-06-23T08:00:24Z"
+    },
+    {
+      "id": 3,
+      "thumbnails": "https://img.youtube.com/vi/ETV17M4SauU/maxresdefault.jpg",
+      "videoUrl": "https://youtu.be/ETV17M4SauU",
+      "title": "Next.js & Appwrite – Full Stack Course for Beginners",
+      "chanelLogo": "../app/images/chanelLogo.png",
+      "views": "25K",
+      "channelTitle": "freeCodeCamp.org",
+      "description": "Learn Next.js by building a custom API with MongoDB using the latest app router. You will build an authentication system that can register the user, login, create a secure cookie with JWT Token, use email service, verify the user's email, forget password, middleware route protection, and much more. Also, you will learn about integrating Appwrite for the back end. Finally, you will learn about deploying everything to Vercel.",
+      "publishedAt": "2023-06-23T08:00:24Z"
+    },
+    {
+      "id": 4,
+      "thumbnails": "https://img.youtube.com/vi/BkOGIbovwQI/maxresdefault.jpg",
+      "videoUrl": "https://youtu.be/BkOGIbovwQI",
+      "title": "2023: Complete VS Code Setup for Web Development",
+      "chanelLogo": "../app/images/chanelLogo.png",
+      "views": "25K",
+      "channelTitle": "Siwalik Mukherjee",
+      "description": "In this video, I'll show you the most essential VS Code configurations and plugins for web developers in 2022. We would configure everything from the very first step i.e., installing vscode into your computer. So if you're a newbie or a seasoned dev, you can easily follow along.",
+      "publishedAt": "2023-06-23T08:00:24Z"
+    },
+    {
+      "id": 5,
+      "thumbnails": "https://img.youtube.com/vi/KPBqgspXl8o/maxresdefault.jpg",
+      "videoUrl": "https://youtu.be/KPBqgspXl8o",
+      "title": "How I Setup And Customize VSCode",
+      "chanelLogo": "../app/images/chanelLogo.png",
+      "views": "25K",
+      "channelTitle": "Web Dev Simplified",
+      "description": "Tabnine: https://www.tabnine.com/now?utm_sourc...Get 50% off for 6 months with this link: https://www.tabnine.com/pricing/check... (Only valid for the first 100 people) VSCode is amazing, but can be a bit overwhelming with all the options and extensions available. In this video I will be showcasing my entire VSCode setup and sharing tips with you on how you can setup your own VSCode.",
+      "publishedAt": "2023-06-23T08:00:24Z"
+    }
+  ]
+}
