@@ -12,11 +12,11 @@ const Tags = () => {
     "Bollywood Music",
     "Cricket",
     "Indian pop music",
-    "Asian music",
-    "Thrillers",
+    "Bangla music",
+    "Motu Patlu",
   ];
   return (
-    <div className=" flex items-center gap-3  ">
+    <div className="flex items-center gap-4">
       {tags.map((tag, index) => (
         <Tag key={index} tag={tag} />
       ))}

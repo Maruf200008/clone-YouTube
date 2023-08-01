@@ -1,20 +1,15 @@
 import Video from "./Video";
 
-const key = "AIzaSyBfv7C9BrkBSB6PPJbLUxpGv7n-bEBV_Fo";
-const id = "@freecodecamp";
-
 const Videos = async () => {
+  const res = await fetch("http://localhost:5000/videos");
+  const data = await res.json();
+
   return (
     <>
       <div className=" grid grid-cols-4 gap-5 mt-5 overflow-hidden">
-        <Video />
-        <Video />
-        <Video />
-        <Video />
-        <Video />
-        <Video />
-        <Video />
-        <Video />
+        {data.map((video) => (
+          <Video key={video.id} video={video} />
+        ))}
       </div>
     </>
   );

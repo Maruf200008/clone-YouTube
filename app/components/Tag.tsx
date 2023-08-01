@@ -16,7 +16,9 @@ const Tag = ({ tag }) => {
         tag === isActive ? " bg-white text-gray-900 hover:bg-white" : ""
       } px-2 py-1 rounded-md hover:bg-[#444444] transition`}
     >
-      <button onClick={() => handleClicke(tag)}>{tag}</button>
+      <button onClick={() => handleClicke(tag)} className=" text-[14px]">
+        {tag}
+      </button>
     </div>
   );
 };
