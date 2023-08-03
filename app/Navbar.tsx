@@ -14,11 +14,7 @@ const Navbar = () => {
             <button className=" text-xl text-white">
               <FaBars />
             </button>
-            <Link
-              target="_"
-              href="https://www.youtube.com/"
-              className="flex items-center"
-            >
+            <Link href="/" className="flex items-center">
               <Image src={logo} alt="logo" width={100} />
             </Link>
           </div>
