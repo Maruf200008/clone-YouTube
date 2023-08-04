@@ -1,3 +1,5 @@
+"use client";
+
 import Image from "next/image";
 import { AiOutlineDislike, AiOutlineLike } from "react-icons/ai";
 import { LiaDownloadSolid } from "react-icons/lia";
@@ -5,7 +7,18 @@ import { PiShareFatThin } from "react-icons/pi";
 import Comments from "./Comments";
 import Description from "./Description";
 
-const VideoPlayer = () => {
+const VideoPlayer = ({ video }) => {
+  const {
+    chanelLogo,
+    channelTitle,
+    description,
+    publishedAt,
+    videoUrl,
+    title,
+    views,
+    subscriber,
+  } = video || {};
+
   return (
     <div className=" flex flex-col gap-3 mb-20 ">
       <div className=" space-y-4">
@@ -13,24 +26,22 @@ const VideoPlayer = () => {
           <iframe
             width="950"
             height="505"
-            src="https://www.youtube.com/embed/_brZcS8-Jn8"
+            src={`https://www.youtube.com/embed/${videoUrl}`}
             title="YouTube video player"
-            frameborder="0"
+            frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
+            allowFullScreen
           ></iframe>
         </div>
         <div>
-          <h1 className=" text-white text-xl font-bold">
-            বাংলাদেশিরা Harvard/MIT-তে চান্স পাওয়ার যে উপায় গুলো জানে না!
-          </h1>
+          <h1 className=" text-white text-xl font-bold">{title}</h1>
         </div>
         <div className=" flex items-center justify-between">
           <div className=" flex justify-between items-center gap-8">
             <div className=" flex items-center gap-3 text-white ">
               <div>
                 <Image
-                  src="https://imgtr.ee/images/2023/08/02/7378bb9280432c3fc560699a23f36736.jpeg"
+                  src={chanelLogo}
                   alt="Chanellogo"
                   width={40}
                   height={40}
@@ -38,8 +49,8 @@ const VideoPlayer = () => {
                 />
               </div>
               <div>
-                <h3>Yahia Amin</h3>
-                <p className=" text-[12px] text-[#cbcbcb]">463K subscribers</p>
+                <h3 className=" text-[14px]">{channelTitle}</h3>
+                <p className=" text-[12px] text-[#cbcbcb]">{subscriber}</p>
               </div>
             </div>
 
@@ -95,7 +106,11 @@ const VideoPlayer = () => {
             </button>
           </div>
         </div>
-        <Description />
+        <Description
+          description={description}
+          publishedAt={publishedAt}
+          views={views}
+        />
         <Comments />
       </div>
     </div>

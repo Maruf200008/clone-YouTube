@@ -4,20 +4,28 @@ import RelatedVideos from "./RelatedVideos";
 import VideoPlayer from "./VideoPlayer";
 
 const Hero = ({ videoId }) => {
-  const { data, isLoading, isError } = useGetVideoQuery(videoId);
-  console.log(data);
-  return (
-    <div className="max-w-screen-xl mx-auto">
-      <div className=" grid grid-cols-12 gap-6">
+  const { data: video, isLoading, isError } = useGetVideoQuery(videoId);
+
+  let content;
+
+  if (isLoading) {
+    content = <div> Loading...</div>;
+  } else if (!isLoading && isError) {
+    content = <div> Somthing is rong!!!</div>;
+  } else {
+    content = video.map((v) => (
+      <div key={v.id} className=" grid grid-cols-12 gap-6">
         <div className=" col-span-9  ">
-          <VideoPlayer />
+          <VideoPlayer video={v} />
         </div>
         <div className=" col-span-3 ">
-          <RelatedVideos />
+          <RelatedVideos video={v} />
         </div>
       </div>
-    </div>
-  );
+    ));
+  }
+  console.log(video);
+  return <div className="max-w-screen-xl mx-auto">{content}</div>;
 };
 
 export default Hero;
