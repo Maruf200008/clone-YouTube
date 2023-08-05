@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import NumberDisplay from "../utils/NumberDisplay";
 
 const Video = ({ video }) => {
   const { id, thumbnails, videoUrl, title, chanelLogo, views, channelTitle } =
@@ -27,10 +28,16 @@ const Video = ({ video }) => {
           />
         </Link>
         <div className="space-y-1 col-span-6">
-          <h2 className=" text-[15px]">{`${title.slice(0, 55)}...`}</h2>
+          <Link href={`video/${id}`} className=" text-[15px]">{`${title.slice(
+            0,
+            55
+          )}...`}</Link>
           <div className="text-[13px] text-[#cbcbcb]">
             <p className=" ">{`${channelTitle.slice(0, 30)}...`}</p>
-            <p>{views} views . 2 years ago</p>
+            <p>
+              {" "}
+              <NumberDisplay value={views} /> views . 2 years ago
+            </p>
           </div>
         </div>
       </div>

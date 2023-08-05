@@ -1,5 +1,6 @@
 "use client";
 
+import NumberDisplay from "@/app/utils/NumberDisplay";
 import Image from "next/image";
 import { AiOutlineDislike, AiOutlineLike } from "react-icons/ai";
 import { LiaDownloadSolid } from "react-icons/lia";
@@ -16,8 +17,13 @@ const VideoPlayer = ({ video }) => {
     videoUrl,
     title,
     views,
+    like,
     subscriber,
   } = video || {};
+
+  const handleLike = (value) => {
+    console.log(value);
+  };
 
   return (
     <div className=" flex flex-col gap-3 mb-20 ">
@@ -61,16 +67,18 @@ const VideoPlayer = ({ video }) => {
           <div className=" space-x-3 flex items-center">
             <div className="inline-flex rounded-full shadow-sm  " role="group">
               <button
+                onClick={() => handleLike(1)}
                 type="button"
                 className=" inline-flex items-center px-4 py-2 text-sm font-medium  rounded-l-full bg-[#222222]   text-white hover:bg-[#3f3f3f] transition  "
               >
                 <div className=" text-2xl mr-3">
                   <AiOutlineLike />
                 </div>
-                500
+                <NumberDisplay value={like} />
               </button>
 
               <button
+                onClick={() => handleLike(1)}
                 type="button"
                 className=" inline-flex items-center px-4 py-2 text-sm font-medium  rounded-r-full bg-[#222222]   text-white hover:bg-[#3f3f3f] transition border-l border-[#3f3f3f]  "
               >
