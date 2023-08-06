@@ -2,9 +2,7 @@
 import numeral from "numeral";
 
 const NumberDisplay = ({ value }) => {
-  const newValue = parseInt(value);
-
-  const formattedNumber = formatNumber(newValue);
+  const formattedNumber = formatNumber(value);
   return <span>{formattedNumber}</span>;
 };
 

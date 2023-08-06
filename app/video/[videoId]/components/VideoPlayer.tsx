@@ -1,7 +1,9 @@
 "use client";
 
+import { useUpdateVideoMutation } from "@/app/redux/features/videos/apiSlice";
 import NumberDisplay from "@/app/utils/NumberDisplay";
 import Image from "next/image";
+import { useState } from "react";
 import { AiOutlineDislike, AiOutlineLike } from "react-icons/ai";
 import { LiaDownloadSolid } from "react-icons/lia";
 import { PiShareFatThin } from "react-icons/pi";
@@ -18,11 +20,63 @@ const VideoPlayer = ({ video }) => {
     title,
     views,
     like,
+    dislike,
     subscriber,
+    thumbnails,
+    id,
+    tag,
   } = video || {};
 
-  const handleLike = (value) => {
-    console.log(value);
+  const [updateVideo] = useUpdateVideoMutation();
+  const newDislike = parseInt(dislike);
+  console.log(newDislike);
+  const [updateLike, setUpdateLike] = useState(like);
+  const [updateDisLike, setUpdateDisLike] = useState(parseInt(dislike));
+  console.log(updateDisLike);
+
+  const handleLike = () => {
+    setUpdateLike((prev) => prev + 1);
+    console.log(updateLike);
+    updateVideo({
+      id,
+      data: {
+        id,
+        thumbnails,
+        videoUrl,
+        title,
+        chanelLogo,
+        views,
+        tag,
+        channelTitle,
+        subscriber,
+        description,
+        publishedAt,
+        like: updateLike + 1,
+        dislike,
+      },
+    });
+  };
+
+  const handledisLike = () => {
+    setUpdateDisLike((prev) => parseInt(prev) + 1);
+    updateVideo({
+      id,
+      data: {
+        id,
+        thumbnails,
+        videoUrl,
+        title,
+        chanelLogo,
+        views,
+        tag,
+        channelTitle,
+        subscriber,
+        description,
+        publishedAt,
+        like,
+        dislike: updateDisLike + 1,
+      },
+    });
   };
 
   return (
@@ -67,25 +121,25 @@ const VideoPlayer = ({ video }) => {
           <div className=" space-x-3 flex items-center">
             <div className="inline-flex rounded-full shadow-sm  " role="group">
               <button
-                onClick={() => handleLike(1)}
+                onClick={() => handleLike()}
                 type="button"
                 className=" inline-flex items-center px-4 py-2 text-sm font-medium  rounded-l-full bg-[#222222]   text-white hover:bg-[#3f3f3f] transition  "
               >
                 <div className=" text-2xl mr-3">
                   <AiOutlineLike />
                 </div>
-                <NumberDisplay value={like} />
+                <NumberDisplay value={updateLike} />
               </button>
 
               <button
-                onClick={() => handleLike(1)}
+                onClick={() => handledisLike(1)}
                 type="button"
                 className=" inline-flex items-center px-4 py-2 text-sm font-medium  rounded-r-full bg-[#222222]   text-white hover:bg-[#3f3f3f] transition border-l border-[#3f3f3f]  "
               >
                 <div className=" text-2xl mr-3">
                   <AiOutlineDislike />
                 </div>
-                5
+                <NumberDisplay value={updateDisLike} />
               </button>
             </div>
             <button

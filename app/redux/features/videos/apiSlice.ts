@@ -15,23 +15,22 @@ export const apiSlice = createApi({
     getRelatedVideos: builder.query({
       query: (tag) => `/videos?tag=${tag}`,
     }),
-    updateLikeAndDislike: builder.mutation({
-      query: ({ id, ...patch }) => ({
-        url: `/videos?id=${id}`,
+    updateVideo: builder.mutation({
+      query: ({ id, data }) => ({
+        url: `/videos/${id}`,
         method: "PATCH",
-        body: patch,
+        body: data,
       }),
-
-      async onQueryStarted({ id, ...patch }, { dispatch, queryFulfilled }) {
-        const patchResult = dispatch(
-          apiSlice.util.updateQueryData("getVideo", id, (draft) => {
-            console.log(JSON.stringify(draft));
-          })
-        );
+      async onQueryStarted(arg, { queryFulfilled, dispatch }) {
         try {
-          await queryFulfilled;
+          dispatch(
+            apiSlice.util.updateQueryData("getVideo", arg.id, (draft) => {
+              const draftVideo = draft.find((v) => v.id == arg.id);
+              draftVideo.like = arg?.data?.like;
+            })
+          );
         } catch {
-          patchResult.undo();
+          console.log("Bangladesh");
         }
       },
     }),
@@ -42,5 +41,5 @@ export const {
   useGetVideosQuery,
   useGetVideoQuery,
   useGetRelatedVideosQuery,
-  useUpdateLikeAndDislikeMutation,
+  useUpdateVideoMutation,
 } = apiSlice;
