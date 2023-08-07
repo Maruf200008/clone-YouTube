@@ -1,8 +1,16 @@
 import { useGetRelatedVideosQuery } from "@/app/redux/features/videos/apiSlice";
 import RelatedVideo from "./RelatedVideo";
 
-const RelatedVideos = ({ video }) => {
-  const { tag } = video || {};
+const RelatedVideos = ({ video }: { video?: { tag: string } }) => {
+  type VideosType = {
+    channelTitle: string;
+    id: number;
+    publishedAt: string;
+    thumbnails: string;
+    title: string;
+    views: number;
+  };
+  const { tag = "" } = video || {};
   const { data: videos, isLoading, isError } = useGetRelatedVideosQuery(tag);
 
   let content;
@@ -14,7 +22,7 @@ const RelatedVideos = ({ video }) => {
   } else if (!isLoading && !isError && videos.length === 0) {
     content = <div> No data found!!!</div>;
   } else if (!isLoading && !isError && videos.length > 0) {
-    content = videos.map((video) => (
+    content = videos.map((video: VideosType) => (
       <RelatedVideo key={video.id} video={video} />
     ));
   }

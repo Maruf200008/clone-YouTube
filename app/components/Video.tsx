@@ -1,10 +1,32 @@
+"use client";
+
+import moment from "moment";
 import Image from "next/image";
 import Link from "next/link";
 import NumberDisplay from "../utils/NumberDisplay";
 
-const Video = ({ video }) => {
-  const { id, thumbnails, videoUrl, title, chanelLogo, views, channelTitle } =
-    video;
+const Video = ({
+  video,
+}: {
+  video?: {
+    id: number;
+    thumbnails: string;
+    title: string;
+    chanelLogo: string;
+    views: number;
+    channelTitle: string;
+    publishedAt: string;
+  };
+}) => {
+  const {
+    id = 0,
+    thumbnails = "",
+    title = "",
+    chanelLogo = "",
+    views = 0,
+    channelTitle = "",
+    publishedAt = "",
+  } = video || {};
 
   return (
     <div className=" space-y-3">
@@ -36,7 +58,8 @@ const Video = ({ video }) => {
             <p className=" ">{`${channelTitle.slice(0, 30)}...`}</p>
             <p>
               {" "}
-              <NumberDisplay value={views} /> views . 2 years ago
+              <NumberDisplay value={views} /> views .{" "}
+              {moment(publishedAt).startOf("day").fromNow()}
             </p>
           </div>
         </div>

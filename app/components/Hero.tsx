@@ -1,5 +1,5 @@
 import Sidebar from "./Sidebar";
-import Tags from "./Tags";
+import Tag from "./Tag";
 import Videos from "./Videos";
 
 const Hero = () => {
@@ -11,7 +11,7 @@ const Hero = () => {
             <Sidebar />
           </div>
           <div className=" col-span-11 ">
-            <Tags />
+            <Tag />
             <Videos />
           </div>
         </div>

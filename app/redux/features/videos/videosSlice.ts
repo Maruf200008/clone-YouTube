@@ -1,18 +1,25 @@
 import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
-  value: 0,
+  tag: "",
+  search: "",
 };
 
 export const videosSlice = createSlice({
   name: "videos",
   initialState,
   reducers: {
-    increment: (state, action) => {
-      state.value = state.value + 5;
+    addTag: (state, action) => {
+      state.tag = action.payload;
+    },
+    addSearch: (state, action) => {
+      state.search = action.payload;
+    },
+    removeSearch: (state) => {
+      state.search = "";
     },
   },
 });
 
-export const { increment } = videosSlice.actions;
+export const { addTag, addSearch, removeSearch } = videosSlice.actions;
 export default videosSlice.reducer;

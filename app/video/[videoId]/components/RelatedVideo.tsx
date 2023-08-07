@@ -1,12 +1,29 @@
-"use client";
 import NumberDisplay from "@/app/utils/NumberDisplay";
+import moment from "moment";
 import Image from "next/image";
 import Link from "next/link";
 import elips from "../../../images/ellipse7.png";
 
-const RelatedVideo = ({ video }) => {
-  const { channelTitle, id, publishedAt, thumbnails, title, views } =
-    video || {};
+const RelatedVideo = ({
+  video,
+}: {
+  video?: {
+    channelTitle: string;
+    id: number;
+    publishedAt: string;
+    thumbnails: string;
+    title: string;
+    views: number;
+  };
+}) => {
+  const {
+    channelTitle = "",
+    id = 0,
+    thumbnails = "",
+    title = "",
+    views = 0,
+    publishedAt = "",
+  } = video || {};
   console.log(video);
 
   return (
@@ -34,7 +51,7 @@ const RelatedVideo = ({ video }) => {
               <NumberDisplay value={views} /> views
             </p>
             <Image src={elips} alt="elips" width={5} />
-            <p>3 Weeks ago </p>
+            <p> {moment(publishedAt).startOf("day").fromNow()}</p>
           </div>
         </div>
       </div>

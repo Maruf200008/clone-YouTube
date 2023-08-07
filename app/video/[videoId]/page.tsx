@@ -1,9 +1,7 @@
-"use client";
-
 import { Hero } from "./components";
 
-const Page = ({ params }) => {
-  const { videoId } = params;
+const Page = ({ params }: { params?: { videoId: number } }) => {
+  const { videoId = 0 } = params || {};
 
   return (
     <div>

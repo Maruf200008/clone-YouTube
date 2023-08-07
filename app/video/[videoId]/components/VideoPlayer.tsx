@@ -10,33 +10,48 @@ import { PiShareFatThin } from "react-icons/pi";
 import Comments from "./Comments";
 import Description from "./Description";
 
-const VideoPlayer = ({ video }) => {
+const VideoPlayer = ({
+  video,
+}: {
+  video?: {
+    chanelLogo: string;
+    channelTitle: string;
+    description: string;
+    publishedAt: string;
+    videoUrl: string;
+    title: string;
+    views: number;
+    like: number;
+    dislike: number;
+    subscriber: number;
+    thumbnails: string;
+    id: number;
+    tag: string;
+  };
+}) => {
   const {
-    chanelLogo,
-    channelTitle,
-    description,
-    publishedAt,
-    videoUrl,
-    title,
-    views,
-    like,
-    dislike,
-    subscriber,
-    thumbnails,
-    id,
-    tag,
+    chanelLogo = "",
+    channelTitle = "",
+    description = "",
+    publishedAt = "",
+    videoUrl = "",
+    title = "",
+    views = 0,
+    like = 0,
+    dislike = 0,
+    subscriber = 0,
+    thumbnails = "",
+    id = 0,
+    tag = "",
   } = video || {};
 
   const [updateVideo] = useUpdateVideoMutation();
-  const newDislike = parseInt(dislike);
-  console.log(newDislike);
+
   const [updateLike, setUpdateLike] = useState(like);
-  const [updateDisLike, setUpdateDisLike] = useState(parseInt(dislike));
-  console.log(updateDisLike);
+  const [updateDisLike, setUpdateDisLike] = useState(dislike);
 
   const handleLike = () => {
     setUpdateLike((prev) => prev + 1);
-    console.log(updateLike);
     updateVideo({
       id,
       data: {
@@ -58,7 +73,7 @@ const VideoPlayer = ({ video }) => {
   };
 
   const handledisLike = () => {
-    setUpdateDisLike((prev) => parseInt(prev) + 1);
+    setUpdateDisLike((prev) => prev + 1);
     updateVideo({
       id,
       data: {
@@ -132,14 +147,18 @@ const VideoPlayer = ({ video }) => {
               </button>
 
               <button
-                onClick={() => handledisLike(1)}
+                onClick={() => handledisLike()}
                 type="button"
                 className=" inline-flex items-center px-4 py-2 text-sm font-medium  rounded-r-full bg-[#222222]   text-white hover:bg-[#3f3f3f] transition border-l border-[#3f3f3f]  "
               >
                 <div className=" text-2xl mr-3">
                   <AiOutlineDislike />
                 </div>
-                <NumberDisplay value={updateDisLike} />
+                {updateDisLike === 0 ? (
+                  ""
+                ) : (
+                  <NumberDisplay value={updateDisLike} />
+                )}
               </button>
             </div>
             <button

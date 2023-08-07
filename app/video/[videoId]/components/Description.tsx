@@ -1,4 +1,5 @@
 import NumberDisplay from "@/app/utils/NumberDisplay";
+import moment from "moment";
 
 const Description = ({ description, publishedAt, views }) => {
   return (
@@ -7,8 +8,7 @@ const Description = ({ description, publishedAt, views }) => {
         <p>
           <NumberDisplay value={views} /> views
         </p>
-        <p>3 days ago</p>
-        <p className=" text-gray-400"> Perspective Podcast with Yahia Amin</p>
+        <p>{moment(publishedAt).startOf("day").fromNow()}</p>
       </div>
       <div>
         <p className=" mt-2 text-sm">{description}</p>

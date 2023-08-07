@@ -7,8 +7,16 @@ export const apiSlice = createApi({
   }),
   endpoints: (builder) => ({
     getVideos: builder.query({
-      query: () => "/videos",
+      query: ({ tag, search }) =>
+        tag
+          ? tag
+            ? `/videos?tag=${tag}`
+            : "/videos"
+          : search
+          ? `/videos?title_like=${search}`
+          : "/videos",
     }),
+
     getVideo: builder.query({
       query: (id) => `/videos?id=${id}`,
     }),
