@@ -8,7 +8,7 @@ const NumberDisplay = ({ value = 0 }: { value?: number }) => {
 
 const formatNumber = (value: number) => {
   if (value >= 1000000) {
-    return numeral(value / 1000000).format("0.0a") + "M";
+    return numeral(value / 1000000).format("0.a") + "M";
   } else if (value >= 1000) {
     return numeral(value / 1000).format("0.a") + "K";
   } else {

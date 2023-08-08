@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { useDispatch } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import { addTag } from "../redux/features/videos/videosSlice";
 
 const Tag = () => {
@@ -24,7 +24,10 @@ const Tag = () => {
     { title: "Motu Patlu", link: "motuPatlu" },
   ];
 
-  const [activeTag, setActiveTag] = useState("All");
+  const { tag } = useSelector((state) => state.videos);
+  const [activeTag, setActiveTag] = useState(tag);
+  console.log(tag);
+  console.log(activeTag);
 
   const dispatch = useDispatch();
 

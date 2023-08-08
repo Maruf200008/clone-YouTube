@@ -18,8 +18,12 @@ export const videosSlice = createSlice({
     removeSearch: (state) => {
       state.search = "";
     },
+    removeTag: (state) => {
+      state.tag = "";
+    },
   },
 });
 
-export const { addTag, addSearch, removeSearch } = videosSlice.actions;
+export const { addTag, addSearch, removeSearch, removeTag } =
+  videosSlice.actions;
 export default videosSlice.reducer;

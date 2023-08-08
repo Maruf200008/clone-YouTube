@@ -11,7 +11,11 @@ import { TbReload } from "react-icons/tb";
 import { useDispatch } from "react-redux";
 import logo from "./images/logo.png";
 import userImg from "./images/userImg.jpg";
-import { addSearch, removeSearch } from "./redux/features/videos/videosSlice";
+import {
+  addSearch,
+  removeSearch,
+  removeTag,
+} from "./redux/features/videos/videosSlice";
 const Navbar = () => {
   const dispatch = useDispatch();
   const path = usePathname();
@@ -30,6 +34,7 @@ const Navbar = () => {
 
   const handleReload = () => {
     dispatch(removeSearch());
+    dispatch(removeTag());
   };
   return (
     <>
