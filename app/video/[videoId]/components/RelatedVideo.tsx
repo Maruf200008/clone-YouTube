@@ -24,7 +24,6 @@ const RelatedVideo = ({
     views = 0,
     publishedAt = "",
   } = video || {};
-  console.log(video);
 
   return (
     <div>

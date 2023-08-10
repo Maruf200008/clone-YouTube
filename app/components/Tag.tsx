@@ -1,8 +1,9 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { addTag } from "../redux/features/videos/videosSlice";
+import { RootState } from "../redux/store";
 
 const Tag = () => {
   interface TagType {
@@ -24,13 +25,16 @@ const Tag = () => {
     { title: "Motu Patlu", link: "motuPatlu" },
   ];
 
-  const { tag } = useSelector((state) => state.videos);
-  const [activeTag, setActiveTag] = useState(tag);
-  console.log(tag);
-  console.log(activeTag);
+  const { tag } = useSelector((state: RootState) => state.videos);
+  const [activeTag, setActiveTag] = useState("");
 
   const dispatch = useDispatch();
 
+  useEffect(() => {
+    if (tag === "") {
+      setActiveTag("all");
+    }
+  }, [tag]);
   const handleClicke = (value: string) => {
     setActiveTag(value);
     dispatch(addTag(value));

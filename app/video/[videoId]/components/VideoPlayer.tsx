@@ -29,7 +29,7 @@ const VideoPlayer = ({
     thumbnails: string;
     id: number;
     tag: string;
-    subscribe: boolean;
+    subscribe: object;
   };
 }) => {
   const {
@@ -53,7 +53,11 @@ const VideoPlayer = ({
 
   const [updateLike, setUpdateLike] = useState(like);
   const [updateDisLike, setUpdateDisLike] = useState(dislike);
-  const [updateSubscribe, setUpdateSubscribe] = useState(subscribe);
+  const [updateSubscribe, setUpdateSubscribe] = useState(
+    subscribe?.subscribeHere
+  );
+  console.log(subscribe);
+  console.log(video);
 
   const handleLike = () => {
     setUpdateLike((prev) => prev + 1);
@@ -99,6 +103,32 @@ const VideoPlayer = ({
     });
   };
 
+  const handleSubscribe = () => {
+    setUpdateSubscribe(!updateSubscribe);
+    console.log(updateSubscribe);
+    updateVideo({
+      id,
+      data: {
+        id,
+        thumbnails,
+        videoUrl,
+        title,
+        chanelLogo,
+        views,
+        tag,
+        channelTitle,
+        subscribe: {
+          chanelName: channelTitle,
+          subscribeHere: !updateSubscribe,
+        },
+        description,
+        publishedAt,
+        like,
+        dislike,
+      },
+    });
+  };
+
   return (
     <>
       <title>{title}</title>
@@ -131,14 +161,14 @@ const VideoPlayer = ({
                   />
                 </div>
                 <div>
-                  <h3 className=" text-[14px]">{channelTitle}</h3>
+                  <h3 className=" text-[14px] font-medium">{channelTitle}</h3>
                   <p className=" text-[12px] text-[#cbcbcb]">{subscriber}</p>
                 </div>
               </div>
 
               {updateSubscribe ? (
                 <button
-                  onClick={() => setUpdateSubscribe(!updateSubscribe)}
+                  onClick={handleSubscribe}
                   className=" flex items-center gap-3 text-sm bg-[#3f3f3f]  text-white transition px-4 py-2 rounded-full font-medium"
                 >
                   <div className=" text-lg">
@@ -148,14 +178,14 @@ const VideoPlayer = ({
                 </button>
               ) : (
                 <button
-                  onClick={() => setUpdateSubscribe(!updateSubscribe)}
+                  onClick={handleSubscribe}
                   className=" text-sm bg-white hover:bg-slate-200 transition px-4 py-2 rounded-full font-medium"
                 >
                   Subscribe
                 </button>
               )}
             </div>
-            <div className=" space-x-3 flex items-center">
+            <div className=" space-x-2 flex items-center">
               <div
                 className="inline-flex rounded-full shadow-sm  "
                 role="group"

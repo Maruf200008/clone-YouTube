@@ -40,7 +40,7 @@ const Hero = ({ videoId }: { videoId: number }) => {
       </div>
     ));
   }
-  console.log(video);
+
   return <div className="max-w-screen-xl mx-auto">{content}</div>;
 };
 
