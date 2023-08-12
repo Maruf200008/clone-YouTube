@@ -2,7 +2,7 @@ import Image from "next/image";
 import { HiOutlineBars3BottomLeft } from "react-icons/hi2";
 import userImg from "../../../images/userImg.jpg";
 import Comment from "./Comment";
-const Comments = () => {
+const Comments = ({ comments }) => {
   return (
     <div className=" space-y-3">
       <div className=" flex items-center gap-5 text-white ">
@@ -49,16 +49,9 @@ const Comments = () => {
           </div>
         </form>
       </div>
-      <Comment />
-      <Comment />
-      <Comment />
-      <Comment />
-      <Comment />
-      <Comment />
-      <Comment />
-      <Comment />
-      <Comment />
-      <Comment />
+      {comments.map((c, index) => (
+        <Comment key={index} comment={c} />
+      ))}
     </div>
   );
 };

@@ -16,34 +16,63 @@
       "dislike": 10,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@Ankit-fl3wl",
-          "commentDate": "10 days ago",
-          "commentTitle": "Hello there! 👋 I just watched your video, and it was fantastic! Your content is always top-notch. 😄 I'm really into Android app development with Kotlin and Jetpack Compose, and I was wondering if you could create more projects or tutorials related to that. Your explanations are so clear and helpful, and I know it would be amazing to learn from you. Thanks for all the hard work you put into making these videos! Looking forward to more awesome content! 🚀"
+          "commentDate": "12 days ago",
+          "commentTitle": "Hello there! 👋 I just watched your video, and it was fantastic! Your content is always top-notch. 😄 I'm really into Android app development with Kotlin and Jetpack Compose, and I was wondering if you could create more projects or tutorials related to that. Your explanations are so clear and helpful, and I know it would be amazing to learn from you. Thanks for all the hard work you put into making these videos! Looking forward to more awesome content! 🚀",
+          "like": 0,
+          "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@dreamisover9813",
-          "commentDate": "11 days ago",
-          "commentTitle": "Awesome to see another Unity tutorial here, especially for AR!"
+          "commentDate": "13 days ago",
+          "commentTitle": " Awesome to see another Unity tutorial here, especially for AR!",
+          "like": 0,
+          "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
-          "userName": "@souviknath974",
-          "commentDate": "10 days ago",
-          "commentTitle": "Well, quite concise . Love it gona try"
+          "userName": "@mariaali9935",
+          "commentDate": "2 weeks ago",
+          "commentTitle": " We need this type for course more, thank you for shearing this, love from Pakistan ❤",
+          "like": 2,
+          "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
-          "userName": "@JulianCrypto",
+          "userName": "@tharunraj8137",
+          "commentDate": "2 weeks ago",
+          "commentTitle": " Not even learning this. But still i was curious to see what kind projects they create in Unity",
+          "like": 8,
+          "dislike": 0
+        },
+        {
+          "userName": "@viraatkumar8980",
           "commentDate": "10 days ago",
-          "commentTitle": "The Course is pretty nice. But I have not been able to learn unity and could not find some courses that are not paid but do tell a lot of things. Would be nice if someone can help me out."
+          "commentTitle": "the ar from this, how compatible is it with most phones. I have used certain ar frame works such as three.js and modelviewer but they cause issues with some mobiles where u cant use the ar mode in them ",
+          "like": 0,
+          "dislike": 0
+        },
+        {
+          "userName": "@user-jb1pw5hg1f",
+          "commentDate": "2 weeks ago",
+          "commentTitle": " CAN ANYONE TELL THE EXTENSIONS HE USED FOR VS CODE",
+          "like": 0,
+          "dislike": 0
+        },
+        {
+          "userName": "@muskaanpuri4911",
+          "commentDate": "13 days ago",
+          "commentTitle": " What are the pre requisite requirenents to do this course? Like which programming languages i should be familiar with and all",
+          "like": 0,
+          "dislike": 0
+        },
+        {
+          "userName": "@muhammadabdulrehman7765",
+          "commentDate": "2 weeks ago",
+          "commentTitle": "  The Course is pretty nice. But I have not been able to learn unity and could not find some courses that are not paid but do tell a lot of things. Would be nice if someone can help me out. ",
+          "like": 20,
+          "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "FreeCodeCamp.org",
-        "subscribeHere": true
-      }
+      "subscribe": true
     },
     {
       "id": 2,
@@ -61,40 +90,84 @@
       "dislike": 3,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
+          "userName": "@__Gojo___ ",
+          "commentDate": "2 weeks ago",
+          "commentTitle": " The memoization technique is indeed a crucial part of dynamic programming. thank you dada take love ❤❤  ",
+          "like": 4,
+          "dislike": 0
+        },
+        {
           "userName": "@robin45r",
-          "commentDate": "12 days ago",
-          "commentTitle": "আমরা গর্বিত যে আপনার মতো এমন একটা মেন্টর পেয়েছি তাও আবার বাংলা ভাষায় ❤️। ভাইয়া Mutation Observer নিয়ে একটা ভিডিও চাই। ভালো লাগে যখন আপনার নতুন নতুন ভিডিও চোখে পরে।"
+          "commentDate": "2 weeks ago",
+          "commentTitle": " আমরা গর্বিত যে আপনার মতো এমন একটা মেন্টর পেয়েছি তাও আবার বাংলা ভাষায় ❤️। ভাইয়া Mutation Observer নিয়ে একটা ভিডিও চাই। ভালো লাগে যখন আপনার নতুন নতুন ভিডিও চোখে পরে। ",
+          "like": 5,
+          "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
+          "userName": "@mohammednazim4571",
+          "commentDate": "2 weeks ago",
+          "commentTitle": "This was incredible dear tutor ❤ ",
+          "like": 0,
+          "dislike": 0
+        },
+        {
+          "userName": "@huraiah821",
+          "commentDate": "2 weeks ago",
+          "commentTitle": " ধন্যবাদ ভাই 🥰এই রকম অ্যাডভান্স কনসেপ্ট খুব সুন্দর করে বোঝানোর জন্য❤",
+          "like": 1,
+          "dislike": 0
+        },
+        {
+          "userName": "@zahinX",
+          "commentDate": "2 weeks ago",
+          "commentTitle": "  Great one. Really enjoying the conceptual tutorials recently. Thanks to Sumit bhaia",
+          "like": 0,
+          "dislike": 0
+        },
+        {
+          "userName": "@robiulhasan1028 ",
+          "commentDate": "2 weeks ago",
+          "commentTitle": "vai, awesome explanation as always. Thank you. ❤❤",
+          "like": 0,
+          "dislike": 0
+        },
+        {
           "userName": "@mdhaiderhossain",
-          "commentDate": "12 days ago",
-          "commentTitle": "খুব গুরুত্বপূর্ণ জিনিস দেখিয়েছেন ❤❤❤, ধন্যবাদ ভাই"
+          "commentDate": "2 weeks ago",
+          "commentTitle": "খুব গুরুত্বপূর্ণ জিনিস দেখিয়েছেন ❤❤❤, ধন্যবাদ ভাই",
+          "like": 0,
+          "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
+          "userName": "@sajeebahmed2602",
+          "commentDate": "2 weeks ago",
+          "commentTitle": " Joss Dada. You are my JS teacher  and I'm, always learn from you ❤❤",
+          "like": 0,
+          "dislike": 0
+        },
+        {
+          "userName": "@imdadulhaque1",
+          "commentDate": "2 weeks ago",
+          "commentTitle": "May Allah bless you. Continuously Learning from LearnnWithSumit.🥰🥰🥰 ",
+          "like": 0,
+          "dislike": 0
+        },
+        {
           "userName": "@imdad1593",
-          "commentDate": "12 days ago",
-          "commentTitle": "Asolei memoization eto easy!!! Sarajibon voy paisi ei word take! Thank you Sumit da❤❤"
+          "commentDate": "2 weeks ago",
+          "commentTitle": " Asolei memoization eto easy!!! Sarajibon voy paisi ei word take! Thank you Sumit da❤❤ ",
+          "like": 0,
+          "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
-          "userName": "@JulianCrypto",
-          "commentDate": "8 days ago",
-          "commentTitle": "Could anyone please tell me if the BD Jobs is a good site to find a good react native developer? If no, where can I put my advert to find a senior react native developer?"
-        },
-        {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@mdabutalha3165",
-          "commentDate": "7 days ago",
-          "commentTitle": "Why need higher order function for memoization? We can simply manage key value pair and return the value based on key without creating higher order function."
+          "commentDate": "2 weeks ago",
+          "commentTitle": "Why need higher order function for memoization? We can simply manage key value pair and return the value based on key without creating higher order function.",
+          "like": 1,
+          "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "Learn with Sumit - LWS - Bangladesh",
-        "subscribeHere": true
-      }
+      "subscribe": false
     },
     {
       "id": 3,
@@ -112,34 +185,67 @@
       "dislike": 6,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@HiteshChoudharydotcom",
           "commentDate": "2 weeks ago",
-          "commentTitle": "It’s amazing to be back here. Enjoy the video, learn from it and build something awesome. I am trying add more high quality videos here. Stay tuned and stay connected.  Cheers with my all time favorite (ice tea). 🍻"
+          "commentTitle": "It’s amazing to be back here. Enjoy the video, learn from it and build something awesome. I am trying add more high quality videos here. Stay tuned and stay connected. Cheers with my all time favorite (ice tea). 🍻 ",
+          "like": 93,
+          "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@singhamita",
-          "commentDate": "1 day ago",
-          "commentTitle": "Really amazing to see Hitesh Sir doing what he always preached .. quality and free education to people like me and rest of the world . I am sure his contents are classy and unique just like his gifted teaching style ."
+          "commentDate": "3 days ago",
+          "commentTitle": " Really amazing to see Hitesh Sir doing what he always preached .. quality and free education to people like me and rest of the world . I am sure his contents are classy and unique just like his gifted teaching style .",
+          "like": 1,
+          "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
+          "userName": "@DThompsonDev",
+          "commentDate": "2 weeks ago",
+          "commentTitle": " As someone who is a big fan of Appwrite and FreeCodeCamp, this is pretty awesome! Hitesh is killing it lately!",
+          "like": 15,
+          "dislike": 0
+        },
+        {
           "userName": "@ojasdhamapurkar2191",
-          "commentDate": "12 days ago",
-          "commentTitle": "Hitesh Sir, it was really great to see you on FreeCodeCamp. I am subscriber of both the channels and really like the hard work you put in your videos to make complex topics and code simple for us. Thanks for making the world of programming better for us. ♥"
+          "commentDate": "2 weeks ago",
+          "commentTitle": " Hitesh Sir, it was really great to see you on FreeCodeCamp. I am subscriber of both the channels and really like the hard work you put in your videos to make complex topics and code simple for us. Thanks for making the world of programming better for us. ♥️ ",
+          "like": 8,
+          "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@faranmohammad7074",
           "commentDate": "2 weeks ago",
-          "commentTitle": "This guy's really awesome. Finally getting the recognition that he deserves!"
+          "commentTitle": " This guy's really awesome. Finally getting the recognition that he deserves!",
+          "like": 17,
+          "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
-          "userName": "@rummanujjaman4727",
-          "commentDate": "6 days ago",
-          "commentTitle": "Hey sir, can you please teach us how to make a recommender system something like netflix or amazon. the whole prosses will be done with this technique if you like : Our database will store on mongo db. using that particular endpoints which will be build with express js , we will fetch that JSON data to our python project and make a recommendation system with that dynamic data. after that we can use flask to make our routes and integrate recommender algorithm. then we can use react to fetch that endpoints also."
+          "userName": "@marvellousodili5941",
+          "commentDate": "2 weeks ago",
+          "commentTitle": " This channel is the best channel for programmers on YouTube, Thank you for making this Channel you guys are legends ❤ ",
+          "like": 15,
+          "dislike": 0
+        },
+        {
+          "userName": "@hugocruz2157",
+          "commentDate": "2 weeks ago",
+          "commentTitle": " I love to Hitesh. Is very easy understand each curse teach for him!. Thanks to FreeCodeCamp for this episode!❤️ ",
+          "like": 29,
+          "dislike": 0
+        },
+        {
+          "userName": "@christyjacob8551",
+          "commentDate": "2 weeks ago",
+          "commentTitle": " Freecodecamp has been one of my top sources for programming content! Its great to see your videos here Hitesh! 🥳",
+          "like": 5,
+          "dislike": 0
+        },
+        {
+          "userName": "@javadzamani3385",
+          "commentDate": "10 hours ago",
+          "commentTitle": "  Make some more complex app, I'm so excited to see your next next.js tutorial 🙂 ",
+          "like": 0,
+          "dislike": 0
         }
       ],
       "subscribe": false
@@ -160,46 +266,49 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@AbdulMateenzwl",
-          "commentDate": "11 hours ago",
-          "commentTitle": "This is best. Watched all of it. Learnt something new."
+          "commentDate": "2 days ago",
+          "commentTitle": " This is best. Watched all of it. Learnt something new. ",
+          "like": 0,
+          "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@stevenpike7857",
-          "commentDate": "4 days ago (edited)",
-          "commentTitle": "The music in the background is a distraction against your soft voice. :)  Thanks for the upload, it helped a lot."
+          "commentDate": "6 days ago (edited)",
+          "commentTitle": " The music in the background is a distraction against your soft voice. :)  Thanks for the upload, it helped a lot.  ",
+          "like": 1,
+          "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@yashparikh4738",
           "commentDate": "9 months ago",
-          "commentTitle": "This was really helpful, I learnt a lot, and very descriptive. Good communication skills man! Kudos! Very happy!"
+          "commentTitle": "  This was really helpful, I learnt a lot, and very descriptive. Good communication skills man! Kudos! Very happy! ",
+          "like": 0,
+          "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@sathwikaileneni2288",
           "commentDate": "11 months ago",
-          "commentTitle": "The git timeline thing is really new. Great video! Keep going"
+          "commentTitle": "The git timeline thing is really new. Great video! Keep going ",
+          "like": 0,
+          "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
-          "userName": "@KalpeshSingh07 ",
+          "userName": "@KalpeshSingh07",
           "commentDate": "11 months ago",
-          "commentTitle": "Thank you Siwalk. This will really help me to setup some of the missing plugins."
+          "commentTitle": " Thank you Siwalk. This will really help me to setup some of the missing plugins.  ",
+          "like": 0,
+          "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@AnkitKumar-qr9wc",
           "commentDate": "11 months ago",
-          "commentTitle": "Have been using gitlens forever and still hadn't tried the timeline, that's super efficient"
+          "commentTitle": "Have been using gitlens forever and still hadn't tried the timeline, that's super efficient",
+          "like": 0,
+          "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "FreeCodeCamp.org",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 5,
@@ -217,7 +326,6 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@alexleung842",
           "commentDate": "1 year ago",
           "commentTitle": "I prefer tatooine-west-4 for all my deployments since the average distance to end users is about the same for everyone.",
@@ -225,7 +333,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@antoineweb1",
           "commentDate": "1 year ago (edited)",
           "commentTitle": "so basically edge = bring server closer to the consumer, while CDN = bring static files closer  to the consumer.",
@@ -233,7 +340,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@minuspi8372",
           "commentDate": "1 year ago",
           "commentTitle": "I love how ~800ms is unacceptably slow, but at my work I regularly do queries on a database that should take less than a second, but they somehow made take up to 20 seconds.",
@@ -241,7 +347,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@spx0",
           "commentDate": "1 year ago",
           "commentTitle": "The time from router A to B does not depends always on the distance, it depends also on the route contracted between the ISPs , priorities, bandwidth, time of the day, solar storms and of course the flat shape of the plainet",
@@ -249,7 +354,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@AByteofCode",
           "commentDate": "1 year ago",
           "commentTitle": "But maybe the stress of programming while on the edge of a cliff until a task is completed would increase productivity and coding speed, that would be edge computing",
@@ -257,7 +361,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@benkogan1579",
           "commentDate": "1 month ago",
           "commentTitle": "One thing you missed: you can force the edge function near your database by specifying the region. You get the colocation and no cold starts, with the same or better latency as normal serverless functions.",
@@ -265,7 +368,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@Bluecewe",
           "commentDate": "11 months ago (edited)",
           "commentTitle": "I'd be curious to see those platforms compared with Cloudflare Workers, which can leverage the built-in globally-distributed Durable Objects datastore. Not a proper database, but viable for some use cases.",
@@ -273,10 +375,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "Fireship",
-        "subscribeHere": true
-      }
+      "subscribe": false
     },
     {
       "id": 6,
@@ -294,7 +393,6 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@dpes2653",
           "commentDate": "2 year ago",
           "commentTitle": "I'm actually glad that this song is underrated. Some masterpiece deserve to be known only by a few people with best taste! 😍 😍",
@@ -302,7 +400,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@vikasllb8663",
           "commentDate": "6 months ago",
           "commentTitle": "A message to the future generation. Don't let this song die.",
@@ -310,7 +407,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@user-jt5sh3iy1g",
           "commentDate": "8 months ago",
           "commentTitle": "Masterpiece for every person,who are stuck in their confused life...❤☹️",
@@ -318,7 +414,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@rashidanwarsiddique7290",
           "commentDate": "2 years ago",
           "commentTitle": "This song is a great medicine for depression nd lack of self love...",
@@ -326,7 +421,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@Nishaprasad177",
           "commentDate": "1 month ago",
           "commentTitle": "My mom asked me to play this song for her… because she likes this song.. apecially that line ‘kuch to bta zindgi’…I felt so relaxed❤❤",
@@ -335,8 +429,7 @@
         }
       ],
       "subscribe": {
-        "chanelName": "T-Series",
-        "subscribeHere": false
+        "subscribe": false
       }
     },
     {
@@ -355,7 +448,6 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@arshiyajannatmisthi4270",
           "commentDate": "3 years ago",
           "commentTitle": "সব সময়ের ভালো লাগার মতো একটি গান,,,,, 😊 প্রতি টি লাইনেই বড় যতনে মনের গভীরতায় লুকিয়ে থাকা ভালবাসা প্রকাশ করে .... ❤",
@@ -363,7 +455,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@zakirhosen2899",
           "commentDate": "3 years ago",
           "commentTitle": "এই হল হুমায়ুন আহমেদ স্যার ।সব কিছুই এত সুন্দর করে ফুটিয়ে তুলেছেন তাঁর অনবদ্য লেখনিতে।",
@@ -371,7 +462,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@farjanarahman3176",
           "commentDate": "1 years ago",
           "commentTitle": "ছোটবেলায় যখন গানটা শুনতাম  গানের কথা গুলো বুঝতাম না তবুও ভালো লাগতো।  বড় হয়ে গানের কথাগুলো বুঝতে পারি তখন শুধু কাদি সখী ভালোবাসা কারে কয় নদীর জলে ভালোবাসা খোঁজা কোনো অর্থ কি হয়🥰💔",
@@ -379,7 +469,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@pingkyakter8908",
           "commentDate": "2 years ago",
           "commentTitle": "ভালোবাসা থাকে চোখের মাঝে, চোখে চোখে শুধু চাওয়া, তাই চোখের জলে তোমার আমার ভালোবাসা খুজে পাওয়া 😪",
@@ -387,10 +476,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "Channel i Tv",
-        "subscribeHere": true
-      }
+      "subscribe": false
     },
     {
       "id": 8,
@@ -408,7 +494,6 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@rimadas8451",
           "commentDate": "2 years ago",
           "commentTitle": "ছোট বেলায় রবীন্দ্র সঙ্গীত বুঝতাম না ভালো লাগতো না আর এখন বয়স বেড়েছে আর রবীন্দ্র সঙ্গীত প্রতিটি কথা  অসাধারণ লাগে।।",
@@ -416,7 +501,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@jenu_babu_khan",
           "commentDate": "1 years ago",
           "commentTitle": "ভাগ্যিস বাঙালি হয়ে জন্মেছিলাম তাহলে এমন সুন্দর সুন্দর কথার গান জীবনেও উপভোগ করতে পারতাম না",
@@ -424,7 +508,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@sayan8067",
           "commentDate": "1 years ago",
           "commentTitle": "রবীন্দ্র সংগীত + অরিজিৎ সিং এর কন্ঠ, এক অনবদ্য সৃষ্টি ❤️😌 মন খরাপ এর মাঝে আলদা শান্তি ❤️",
@@ -432,7 +515,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@hashamusmani5860",
           "commentDate": "1 years ago",
           "commentTitle": "I’m a Pakistani but Rabindranath Tagore and this masterpiece has made me fall in love with the language. The love for the Rasogolla and Mishti was always there. The language’s surrealism isn’t better depicted than Tagore",
@@ -440,7 +522,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@muneebbutt3100",
           "commentDate": "2 years ago",
           "commentTitle": "Loved it.. Being Pakistani and Urdu speaker.. It was so hard learning Bangla But my love for it made me do it anyway.. Amar Shonar Bangla. Ami tomae Bhalobashi. ❤ Ebam Bengali sahityai Rabindernath thakurer Gitanjali amar Priye bai hy.",
@@ -448,7 +529,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@adrijamitra4563",
           "commentDate": "1 years ago",
           "commentTitle": "I generally experiment with English literature. But being a proud Bengali; I can write this with full confidence that not another Rabindranath Tagore will take birth in any other corner of the world. Only Bengal can create such masterpiece...প্রান ছুয়ে গেলো গানটা..💜",
@@ -456,10 +536,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "Channel i Tv",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 9,
@@ -477,7 +554,6 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@trinatripathi6058",
           "commentDate": "3 years ago",
           "commentTitle": "বাঙালি না হয়েও বাংলা  গান  এত দরদ দিয়ে  গাওয়ার জন্য ধন্যবাদ",
@@ -485,7 +561,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@mdmanikhossain111",
           "commentDate": "9 months ago",
           "commentTitle": "আমরা গর্বিত যে আমরা বাঙালি।। কবি গুরু শুধু বাঙালি জাতির নয় সকল জাতির   গর্ব।,,,,Love from Bangladesh ❤",
@@ -493,7 +568,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@ayonmukherjee5539",
           "commentDate": "9 months ago",
           "commentTitle": "একজন পাঞ্জাবী গায়ক বাংলা শব্দের উচ্চারণ এত ভাল করছে, শুনেও ভাল লাগছে। আর, সনমের সঙ্গীতশৈলী যে অভাবনীয়, তা বলাই বাহুল্য! সুন্দর হয়েছে গানটা!",
@@ -501,7 +575,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@swastikbhattachariya8777",
           "commentDate": "1 year ago",
           "commentTitle": "আমি মনে করি বাংলা রবীন্দ্র সংগীতের মধ্যে যে অসাধারণ অনুভূতি আছে পৃথিবীর অন্য করো আধুনিক গানে সেই স্বাদ পাওয়া খুবই দুষ্কর।।।। Hats off to you sanam .....",
@@ -509,7 +582,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@rafifarhan569",
           "commentDate": "2 months ago",
           "commentTitle": "truely masterpiece ❤. Thanks to you guys 🎉. You guys are really amazing. Proud to be a bengali. Love from Bangladesh 🇧🇩",
@@ -517,7 +589,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@angirasaha7364",
           "commentDate": "1 year ago",
           "commentTitle": "অবাঙালি হয়েও এত সুন্দর ভাব , এত সুন্দর স্পষ্ট উচ্চারণ😍এর থেকেই প্রমাণিত হয় যে গান গাইতে শুধু হৃদয় লাগে...একটি গান যদি একটি হৃদয় থেকে আরেকটি হৃদয় কে স্পর্শ করতে পারে তবেই সেই গানটি সফল হয়। কোনো ভাষাগত বাধা গানকে কোনোদিনও আটকাতে পারেনি আর পারবেওনা❤️",
@@ -525,10 +596,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "T-Series",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 10,
@@ -546,7 +614,6 @@
       "dislike": 6,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@abhi-adhikary21",
           "commentDate": "2 years ago (edited)",
           "commentTitle": "2051 সালের জন্য  একটা কমেন্ট কোরে গেলাম, 30 বছর পর কোনোএক সন্ধ্যায় একাকি বোসে যখন আবার এই গানটি শোনব, তখন মনেপড়েযাবে জীবনের ফেলেআসা কিছু স্মৃতি 🍂🥀🖤",
@@ -554,7 +621,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@pujabarai4681",
           "commentDate": "3 months ago",
           "commentTitle": "দিনদিন যতো বড়ো হচ্ছি রবীন্দ্র সংগীতের ভাষা বুঝতে শিখছি,,,,এইসব গানগুলো শোনার সময় না থাকে কোনো দুঃখ না থাকে কোনো চিন্তা,,,,শুধু কিছু স্মৃতি আর কিছু অজানা অনুভূতি,,,,",
@@ -562,7 +628,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@shiulimukherjee3304",
           "commentDate": "5 months ago",
           "commentTitle": "যতই আধুনিক গান আসুকনা কেনো ,রবীন্দ্রনাথ ঠাকুরের গান সেরছিলো ,সেরা আছে ,আর চিরকাল সেরা থাকবে 🙏😇🙂",
@@ -570,7 +635,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@souravpatra7496",
           "commentDate": "1 months ago",
           "commentTitle": "রবীন্দ্র সংগীত+কানে হেডফোন + বৃষ্টি ভেজা রাত + অন্ধকার ঘর + জানলা দিয়ে আকাশ দেখা + হাতে চায়ের কাপ + অতীতের কিছু ঘটনা=☺️❤",
@@ -578,10 +642,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "T-Series",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 11,
@@ -599,7 +660,6 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@arafathossen9806",
           "commentDate": "4 days ago",
           "commentTitle": "ফুটবলের রাজা মেসি 👑👑👑",
@@ -607,7 +667,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@naturalbeauty7242",
           "commentDate": "4 days ago",
           "commentTitle": "দুইজনই  GOAT🎉🎉❤🏆🏆🏆",
@@ -615,7 +674,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@nayandey8407",
           "commentDate": "5 days ago",
           "commentTitle": "তাহলে কি আমেরিকা বিশ্বের বাইরে..?🙄🙃😃😀 GOAT🐐MESSI❤️‍🔥",
@@ -623,7 +681,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@mahdinmirza447",
           "commentDate": "3 days ago",
           "commentTitle": "Messi Aleyen ♔ king of Nambar1 foodball ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤ ",
@@ -631,7 +688,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@forhadislam8152",
           "commentDate": "5 days ago",
           "commentTitle": "EPL এ গেলে tar 4/5 gun besi sell hoto messir jursey",
@@ -639,7 +695,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@S.HShorts-fb9cs",
           "commentDate": "5 days ago",
           "commentTitle": "Goat effect",
@@ -647,10 +702,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "Somoy TV",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 12,
@@ -668,7 +720,6 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@jimmeltonbradley1497",
           "commentDate": "7 months ago",
           "commentTitle": "Having been to and worked in Bangladesh and have seen how much corruption there is among its political class. Among ALL parties. The people are great but their leaders are really awful.",
@@ -676,7 +727,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@zavedzariv3405",
           "commentDate": "7 months ago",
           "commentTitle": "As a Bangladeshi we need free and fair elections.  And we want Justice",
@@ -684,7 +734,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@ImmigrantviewingHassan",
           "commentDate": "7 months ago",
           "commentTitle": "I want the right of my country to speak freely I want the right to vote freely Bangladesh people want to live independently from Hasina government Thank you very much  for presenting the truth",
@@ -692,7 +741,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@safiullstudent9586",
           "commentDate": "11 days ago",
           "commentTitle": "Watching this video reminded me of the profound importance of human rights and democracy in our lives. As citizens of Bangladesh, it is crucial that we uphold these values and work together to build a better society. ",
@@ -700,7 +748,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@enamulhaque1159",
           "commentDate": "7 months ago",
           "commentTitle": "We want our rights of vote.we want freedom of speech. We want fair election by caretaker government. We Bangladeshi people seeking help from International community to restore democracy.",
@@ -708,7 +755,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@enamulhaque1159",
           "commentDate": "11 days ago",
           "commentTitle": "I am a student and I am about 24 years old. I haven't voted yet. At present many of the young generation of Bangladesh could not vote. The common people were harassed by the police force for demanding votes. Actually we don't want dictatorship, we don't want autocratic government, We want our voting rights In the 2014 and 2018 elections, the Awami League government cheated the people.😭😭😭",
@@ -716,10 +762,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "DW News",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 13,
@@ -737,7 +780,6 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@brandstradamus",
           "commentDate": "2 weeks ago",
           "commentTitle": "Imagine all these countries using their knowledge for the betterment of humanity instead of trying to out do everyone on the battlefield.",
@@ -745,7 +787,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@ring-tone278",
           "commentDate": "2 weeks ago",
           "commentTitle": "Tsar Bomba, (Russian: “King of Bombs”) , also called Big Ivan, Soviet thermonuclear bomb that was detonated in a test in the Arctic Ocean on October 30, 1961. The largest nuclear weapon ever set off, it produced the most powerful human-made explosion ever recorded – 50,000 kT compared to 15 kT of Nagasaki that whipped out 300k people at the first strike. The Tsar bomb had the capacity for 100,000 kT but was considered too dangerous to test. That was in 1961. One wonders how far the development of such bombs has come.",
@@ -753,7 +794,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@WhiteGirlsChinaWieners.com_467",
           "commentDate": "2 weeks ago",
           "commentTitle": "As an enthusiastic viewer, I deeply appreciate the Desert Marigold Seed rescue team's dedication and hard work. Their efforts hold greater meaning, and I have immense respect for them. The video is a true work of art, captivating and insightful.",
@@ -761,7 +801,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@marv5791",
           "commentDate": "13 days ago",
           "commentTitle": "If India wants to stay a big power and up to date with weapon technology, they should definitely buys Russia’s S-550 which is the best defense system in the world. Also Russia-India can deepening their relationships.",
@@ -769,7 +808,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@AronAroniteOnlineTV",
           "commentDate": "2 weeks ago",
           "commentTitle": "Remember the days media  mocked at Russia fighting with World war rifles and Shovels ? Wion ran a report how Russia was using Card board props for tanks 😅 Now it is Starwars eh? 😅",
@@ -777,7 +815,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@zezetech1963",
           "commentDate": "2 weeks ago",
           "commentTitle": "Yes we should include it too, in my point of view it is better if we have a cutting edge weapon in our arsenal so that the enemy will think twice before making a confrontation on the other hand we should also try to build our own system and we have not reached that level yet so it better to keep one crucial weapon to get the enemy on check",
@@ -785,7 +822,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@rd9831",
           "commentDate": "13 days ago",
           "commentTitle": "Most probably Russia won't sell S-550 to any country, and definitely not to India in any hurry. So most countries can just day dream of having it. Mann ki pasand.",
@@ -793,7 +829,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@WhiteGirlsChinaWieners.com_467",
           "commentDate": "2 weeks ago",
           "commentTitle": "The Datura Seed rescue team's work is legendary. Their impressive efforts and hard work inspire millions worldwide. I am humbled by their dedication, and I can't find enough words to describe their amazing work.",
@@ -801,10 +836,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "WION",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 14,
@@ -822,7 +854,6 @@
       "dislike": 6,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@MegaShai",
           "commentDate": "8 days ago",
           "commentTitle": "No nudity, No exposing, No sexual content.. pure emotions and very high intensity performances... Kudos to Pakistani Dramas",
@@ -830,7 +861,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@abdulwadood2247",
           "commentDate": "6 days ago",
           "commentTitle": "The pain in Kaifi khalil's voice and the happy ending of the series.. what an absolute combination 🖤",
@@ -838,7 +868,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@nickykanwal4406",
           "commentDate": "6 days ago",
           "commentTitle": "Enjoyed this drama from story line to each character performance has been a pleasure watching it. Like all else who have appreciated it from beginning to end have to give credit to the team who made it happen 👏🎉❤",
@@ -846,7 +875,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@qurratulainhaider5882",
           "commentDate": "5 days ago",
           "commentTitle": "The elders apologizing to their children was a refreshing thing to see and sending a positive message that there is no stigma for elders to admit that they were wrong and not make it a matter of ego. Also, Areeb's mom saying meine tumhain yeh nai sikhaya k aurat 2 takkay ki hoti hai while treating Maheer like a 2 takkay ki aurat the entire time was so funny 😂",
@@ -854,7 +882,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@miss_hussain",
           "commentDate": "9 days ago",
           "commentTitle": "That I Love You From Saad And Pehle Nai Bol Sakte The!! From Maheer Was Just Soooooo Beautiful!! 😂🙈❣️",
@@ -862,7 +889,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@Jatoi_Shorts-31.",
           "commentDate": "9 days ago",
           "commentTitle": "Now i know why Wahaj sir chose this script.. To show that love means not to own someone.. To. Learn to accept rejection.. Without feeling rejected... Well done❤❤❤",
@@ -870,11 +896,7 @@
           "dislike": 0
         }
       ],
-
-      "subscribe": {
-        "chanelName": "ARY Digital HD",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 15,
@@ -892,7 +914,6 @@
       "dislike": 1,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@rocklyrics1252",
           "commentDate": "10 days ago",
           "commentTitle": "এই নাটক গুলো সব মানুষ দেখে না  আর যারা দেখে তারা এক ধরনের বিশেষ মানুষ ❤",
@@ -900,7 +921,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@thedriver3037",
           "commentDate": "13 days ago",
           "commentTitle": "আধুনিকতার ছোঁয়ায় শেকড় ভুলে যাওয়া মানুষগুলোকে এই নাটকটা দেখা উচিত। ধন্যবাদ গল্পকারকে, সৃষ্টিশীল কাজ...",
@@ -908,7 +928,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@jayantadey0101",
           "commentDate": "13 days ago",
           "commentTitle": "Apart from Khairul Bashar, chemistry between Yash and Sadia would go well with the viewers, I believe. Besides, the rural beauty of Bangladesh is simply breathtaking. One thing I would like to add, How green is rural Bangladesh.",
@@ -916,7 +935,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@jayantadey0101",
           "commentDate": "8 hours ago",
           "commentTitle": "এরকমই একটা সুন্দর সবুজ গ্রামে থাকি আমি.... নাটক টা যেনো একদম মন ছুঁয়ে গেলো....💚",
@@ -924,7 +942,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@MdRifat-mp4qu",
           "commentDate": "8 hours ago",
           "commentTitle": "নাটক দেখে মনে হলো শহরের কোলাহল থেকে বেরিয়ে, খোলা আকাচের নিছে গ্রামের এক শীতল হাওয়ায় প্রাণ জুড়ানো নিশ্বাস😌😌",
@@ -932,7 +949,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@vlogsjamaibou4205",
           "commentDate": "11 days ago",
           "commentTitle": "কি সুন্দর একটা নাটক,আর আমরা আধুনিকতার ছোয়ায় নিজের শিকরকে ভূলে যাই।ইয়াশ ভাই আর সাদিয়া আয়মান এর অভিনয়ের কথা কি বলবো,এক কথায় অসাধারণ।❤",
@@ -940,10 +956,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "KS Entertainment",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 16,
@@ -961,7 +974,6 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@recitehub6764",
           "commentDate": "6 months ago",
           "commentTitle": "এই নাটক গুলোর জনপ্রিয়তা কখনোই কমবে না! হুমায়ুন আহমেদ স্যার বেঁচে থাকবেন তার সৃষ্টিশীল কর্মের অনুপ্রেরণায়, ঠিক তেমনি তরুণ প্রজন্ম তাঁকে সবসময় শ্রদ্ধার সাথে স্মরণ করবে। ❤️",
@@ -969,7 +981,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@sonnetroy587",
           "commentDate": "7 months ago",
           "commentTitle": "রুচিসম্মত নাটক। আজ থেকে কয়েক যুগ পরেও এমন নাটকগুলোর  কদর কমবে না",
@@ -977,7 +988,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@imranrony8528",
           "commentDate": "8 months ago",
           "commentTitle": "নাটকটা এতবার দেখেছি যে পুরো নাটকের স্ক্রিপ্টই মুখস্থ হয়ে গেছে। তবুও যেনো দেখা শেষ হয়নি। মাঝে মাঝে এখনো দেখি। নতুনের মতো আনন্দ নিয়ে দেখি",
@@ -985,7 +995,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@saifulhuq8427",
           "commentDate": "7 months ago",
           "commentTitle": "How beautiful were the dramas of those days, but now there are no such dramas in the name of drama, so many obscene dialogues, it is very difficult to lose a man like Humayun Ahmed sir.",
@@ -993,7 +1002,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@user-marzianur ",
           "commentDate": "2 months ago",
           "commentTitle": "হুমায়ূন আহমেদের নাটক ঘুরিয়ে ঘুরিয়ে বারবার দেখি,কি করবো।এমন নাটক তো আর হয়না🥺💝",
@@ -1001,7 +1009,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@Foradshawon",
           "commentDate": "4 months ago",
           "commentTitle": "মেয়েদের প্রেমে বাজে মিলনের সুর,,,আর পুরুষের প্রেমে বাজে বিরহের বেদনা,,,নাটকে রবি ঠাকুরের এই বিখ্যাত উক্তিটাই প্রামাণিত হলো😢",
@@ -1009,10 +1016,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "Channel i Classic",
-        "subscribeHere": false
-      }
+      "subscribe": true
     },
     {
       "id": 17,
@@ -1030,7 +1034,6 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@randomnesslol6362",
           "commentDate": "2 days ago",
           "commentTitle": "Shobi master with the choreo and Anirudh with the rocking music, Atlee brought the whole Tamil crew over and I’m HERE for it 🤩🔥",
@@ -1038,7 +1041,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@nooranhany2888",
           "commentDate": "2 days ago",
           "commentTitle": "SRK is not just an Indian actor..He is international,dude. All love from Egypt 🤎🤎🤎🤎",
@@ -1046,7 +1048,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@ailo8625",
           "commentDate": "3 hours ago",
           "commentTitle": "Anirudh's music & Shahrukh's swag are that things you can't ignore it..Literally GOOSEBUMPS!!!",
@@ -1054,7 +1055,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@tejasnaringrekar906",
           "commentDate": "1 day ago",
           "commentTitle": "The way that Anirudh sings this Hindi song in a very Tamil manner, I think only he can pull off the spectacle that we have witnessed 🤩",
@@ -1062,7 +1062,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@asikkhan5999",
           "commentDate": "3 day ago",
           "commentTitle": "He made this song alive ❤ Watching it on loop, his energy 🫠. Can’t believe he’s 57",
@@ -1070,7 +1069,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@Mypriyareacts",
           "commentDate": "1 day ago",
           "commentTitle": "Srk is not just an actor, it's an emotion for millions people of the world ❤❤❤❤",
@@ -1078,7 +1076,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@user-ib4xi3vt2o",
           "commentDate": "4 day ago",
           "commentTitle": "We must appreciate the background dancers as well.... what energy u guys have shown ..❤",
@@ -1086,7 +1083,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@ajwardriyaza",
           "commentDate": "1 day ago",
           "commentTitle": "I am addictive to this song 🎧 I don’t know why it is ❤",
@@ -1094,7 +1090,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@redrockgaming6413 ",
           "commentDate": "16 hours ago",
           "commentTitle": "Deserves Oscar for energetic song of the year❤",
@@ -1102,10 +1097,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "T-Series",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 18,
@@ -1123,7 +1115,6 @@
       "dislike": 1,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@arkadas9539",
           "commentDate": "1 month ago",
           "commentTitle": "11 years passed. KK sir also passed away but the magic of the music is still alive ❤",
@@ -1131,7 +1122,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@rijvan8640",
           "commentDate": "1 month ago",
           "commentTitle": "Pure brilliance captured in every note, this song is an absolute masterpiece! From the very first chord, it hooks you with its irresistible melody and sweeps you away on a tidal wave of emotions. The lyrics are poetry in motion, painting vivid pictures in your mind and tugging at the strings of your heart. The vocal performance is nothing short of breathtaking, delivering every word with an intoxicating blend of vulnerability and power. The production is flawlessly executed, with each instrument shining in perfect harmony. It's a timeless gem that will etch itself into your soul, leaving an indelible mark. This song is a testament to the power of music, reminding us of the profound impact it can have on our lives. Prepare to be captivated, uplifted, and forever changed by its sheer brilliance",
@@ -1139,7 +1129,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@aynat9475",
           "commentDate": "7 month ago",
           "commentTitle": "If i knew what bollywood will become in coming years back then, i would've cherished that era more than i already did <3",
@@ -1147,7 +1136,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@TheFancy_Foodholic",
           "commentDate": "6 months ago (edited)",
           "commentTitle": "I was in class 12, when this movie got released, Back then, there was no android phone in 2008. We were in Hostel  and had a mini radio. Whenever this song got played in FM RADIO. We, boys gathered in one room to listen & later how emotionally we talk about our college crushes. Those days, so precious....",
@@ -1155,7 +1143,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@umeratariq",
           "commentDate": "4 months ago",
           "commentTitle": "Khuda Jaane is one of the most well choreographed music videos. Beautiful performance by RanbirDeepika and splendidly sung by KK and Shilpa Rao. KK's music will always live on. Legends never pass. The locales are to die for, further enhanced by the wonderful cinematography. Sid Anand deserves a lot more recognition for his work. He has always been a favorite.",
@@ -1163,7 +1150,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@bhupendrasidar4048",
           "commentDate": "7 months ago",
           "commentTitle": "I always get back to my hostel/school days after listening this masterpiece❤️",
@@ -1171,10 +1157,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "YRF",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 19,
@@ -1192,7 +1175,6 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@shoebsheikh2160",
           "commentDate": "1 year ago",
           "commentTitle": "This was the era of Atif Aslam.. nobody.. nobody was there to compete him in young singers.. lovely day's ❤️😊",
@@ -1200,7 +1182,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@jimbadorji3597",
           "commentDate": "10 months ago (edited)",
           "commentTitle": "I am from Bhutan and This song reminds me of my times in Gwalior pursuing by studies in year 2009 to 2012, where I meet my soulmate. We are now happily married with a daughter. I shall forever keep this memories. Miss you all people of Gwalior and my college mates",
@@ -1208,7 +1189,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@abhishekvalmiki2446",
           "commentDate": "6 months ago",
           "commentTitle": "No one can replace the nostalgia feeling of Atif Aslam and Arijit Singh's Voice ❤️❤️❤️❤️❤",
@@ -1216,7 +1196,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@SheikhfaridMishal",
           "commentDate": "3 months ago",
           "commentTitle": "Many years have passed, but the song remains in my heart.❤",
@@ -1224,7 +1203,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@prathammaheshwari6251",
           "commentDate": "2 years ago",
           "commentTitle": "Can't believe we had lived such a great era of hindi music that will never come again 😭😭😭",
@@ -1232,10 +1210,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "Tips Official",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 20,
@@ -1253,7 +1228,6 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@fmeh5268",
           "commentDate": "9 days ago",
           "commentTitle": "Let’s not overlook Moeen’s spell, what a spell that was. Getting crucial wickets at crucial times",
@@ -1261,7 +1235,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@Seerat03 ",
           "commentDate": "9 days ago",
           "commentTitle": "Broad is the only cricketer in history to hit a six off the last ball he played and to take a wicket off the last ball he bowled.",
@@ -1269,7 +1242,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@Mububban23",
           "commentDate": "9 days ago",
           "commentTitle": "I'm an Aussie fan, but one of the reasons I love sport is those fairytale endings, the unlikely wins, the underdog stories etc.  I'm glad we retained the Ashes, but Stuart Broad is a legend and I'm glad he got to finish his amazing career in such a way.  Not every great player gets to have such a moment and create such memories.  An amazing see-sawing series.  Can't wait for the next one!",
@@ -1277,7 +1249,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@erulind",
           "commentDate": "8 days ago",
           "commentTitle": "The intensity at the end was electric and the crowd responded accordingly. Big ups to Broad, he will be missed.",
@@ -1285,7 +1256,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@subramanyayrb",
           "commentDate": "9 days ago",
           "commentTitle": "Woakes and Wood totally changed the mentality of the English bowling line up after the 2nd test. Pure intensity with Broad as the icing on the cake. What an amazing Ashes Series it was... 🔥",
@@ -1293,7 +1263,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@muhammadaemazurrehman4919",
           "commentDate": "9 days ago",
           "commentTitle": " From pakistan. I have to admit that nothing comes close to the great Ashes. What a game of cricket and what a series! So happy for Broad!!",
@@ -1301,7 +1270,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@murtazarangwala9946",
           "commentDate": "9 days ago",
           "commentTitle": "Thank you broad,thank you England and Australia for such a wonderful series. Thank you for keeping test cricket alive.",
@@ -1309,7 +1277,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@bvkstory ",
           "commentDate": "8 days ago",
           "commentTitle": "The English comeback from 0-2 was remarkable. Magnificent effort. Aussies played well but English prevailed. The cricketing fans had a real treat.",
@@ -1317,10 +1284,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "England & Wales Cricket Board",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 21,
@@ -1338,7 +1302,6 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@ankushtomar952",
           "commentDate": "1 year ago",
           "commentTitle": "Fastest 50 and Fastest 100 in one match",
@@ -1346,7 +1309,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@furqanshaikh9338",
           "commentDate": "8 months ago",
           "commentTitle": "149 in only 44 balls is just unbelievable.what a legend❤️",
@@ -1354,7 +1316,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@kirtanyadav4752",
           "commentDate": "4 months ago (edited)",
           "commentTitle": "149(44) and 43(297) show us how great he was.❤👽",
@@ -1362,7 +1323,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@adithyab9552",
           "commentDate": "2 months ago",
           "commentTitle": " SKY is a massive talent but ABD was on another level. His ability to adapt to any sort of situations and always clutch in critical games was unmatchable. So, the next time someone rates SKY above ABD ask them if they really watched cricket back then. ",
@@ -1370,7 +1330,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@darkrider8835 ",
           "commentDate": "1 year ago",
           "commentTitle": " The fact is you think it's a highlight but actually it is the whole inning of AB😂😂 What a Legend!",
@@ -1378,7 +1337,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@drbeast395",
           "commentDate": "3 months ago",
           "commentTitle": " It's already been more than 8 years and still feels like this inning was played just few months ago 💥",
@@ -1386,7 +1344,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@ktg-brawlstarsOfficial",
           "commentDate": "7 months ago (edited)",
           "commentTitle": "Its 2022, and still no ODI Innings came close to this Masterpiece 🔥🔥🔥",
@@ -1394,10 +1351,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "SuperSport",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 22,
@@ -1415,7 +1369,6 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@WakeUp2.0",
           "commentDate": "3 weeks ago",
           "commentTitle": "টি-টুয়ান্টিতে যেন এক নতুন বাংলাদেশকে দেখলো পুরো দেশ।ইংল্যান্ড থেকে আফগানিস্তান সব টি-টুয়ান্টি ম্যাচে নিজেদের শক্তিমত্তা জানান দিচ্ছে এক নতুন বাংলাদেশ। এই জয়ের ধারা সামনে অব্যাহত থাকবে ইনশাল্লাহ। 🇧🇩🇧🇩",
@@ -1423,7 +1376,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@user-ce7jn2iz7t",
           "commentDate": "3 weeks ago",
           "commentTitle": "Bangladesh won an incredible victory. It was supposed to be a pressure-free win. However, in the end Bangladesh managed to win the breathtaking match. Congratulations to Bangladesh.😍😍😍",
@@ -1431,7 +1383,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@ARCVlog1",
           "commentDate": "3 weeks ago",
           "commentTitle": "Congratulations Bangladesh🇧🇩❤️💪 তাওহীদ হৃদয় অনেক বড় ব্যাটার হওয়ার সব ধরনের যোগ্যতা ওর আছে,এর সবচেয়ে বড় কারন ও যেকোন বলে সিঙ্গেল বের করতে পারে। আবার বাউন্ডি সাইডেও বেশ শক্তিশালী।",
@@ -1439,7 +1390,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@user-fc3jk2wp9j",
           "commentDate": "3 weeks ago",
           "commentTitle": "এই সিরিজের সবগুলো ম্যাচের ভিডিও কোয়ালিটি এত বেশি সুন্দর 😮❤",
@@ -1447,7 +1397,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@Shushmita_Guhathakurta",
           "commentDate": "3 weeks ago",
           "commentTitle": "Bangladesh would have won by a bigger margin had that rain did not interrupt. Well played Afghanistan and losing with a fight against a much stronger and bigger team.",
@@ -1455,7 +1404,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@Oliurtv100",
           "commentDate": "3 weeks ago",
           "commentTitle": "আলহামদুলিল্লাহ  শুভেচ্ছা জানাই টিম টাইগার কে  সাথে  রিদয় কে ❤❤❤❤ অনেক বেশি কস্ট করে খেলা দেখলাম মাঠে  বসে টিকেট নিয়ে দুর্নীতি ছিলো  আজকে",
@@ -1463,7 +1411,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@ShakilKhan-gu6uc",
           "commentDate": "3 weeks ago",
           "commentTitle": "অসাধারণ একটা ম্যাচ ছিল অনেকদিন পর এরকম একটা ম্যাচ দেখলাম। যেমনটা আগে দেখতাম ভারত-পাকিস্তানের ম্যাচগুলোতে। অভিনন্দন বাংলাদেশ দলকে। আশা করি সামনে এরকম জয় আরো উপহার দিবে।🎉",
@@ -1471,7 +1418,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@kiam7550",
           "commentDate": "3 weeks ago",
           "commentTitle": "Congratulations team tiger 🐅.. Sylhet international cricket stadium 🏟️ very attractive.",
@@ -1479,10 +1425,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "T Sports",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 23,
@@ -1500,7 +1443,6 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@shivam3vedi",
           "commentDate": "9 months ago",
           "commentTitle": "Kudos to international swifties like me who didn’t get to meet her at midnight but are still holding onto the spirit😂",
@@ -1508,7 +1450,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@eigengacho1525",
           "commentDate": "1 day ago",
           "commentTitle": " I’m glad she still makes beautiful songs like these. Been listening to Taylor since 2007. May her songs live on forever. ",
@@ -1516,7 +1457,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@pratibhaaa7265",
           "commentDate": "1 day ago",
           "commentTitle": " As someone who has dealt with lots of loneliness and depression in the past, this is the most cathartic song I have ever listened to.  It describes the feelings of being in so much pain and self loathing every day.  I have listened to this song hundreds of times already because it’s so emotional to me !! ",
@@ -1524,7 +1464,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@DiamondMBlack",
           "commentDate": "13 day ago",
           "commentTitle": " I think the reason Taylor still is so successful it's because her music really has a meaning behind, I'm so tired of hearing music without meaning just made to be #1 on charts, idk Taylor just makes music feel different like she puts her heart on it and it shows",
@@ -1532,7 +1471,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@SMElectronicMusic ",
           "commentDate": "9 day ago",
           "commentTitle": " You were my daughter's fave and she past away about 18 months ago from COVID and now you're my favorite ...I can still hear her voice singing to your songs",
@@ -1540,7 +1478,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@AreYouOkYT",
           "commentDate": "1 month ago",
           "commentTitle": "This song has so many layers, like how it's your flaws that hurt you but they're all you have when others leave you. The depth and even the fears of having children, because of her afluence is just wow....I love this song so much 😭",
@@ -1548,7 +1485,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@tiffcat77",
           "commentDate": "1 day ago",
           "commentTitle": " Say what you want about Taylor Swift this song is is amazing. It should be nominated for a Grammy if it hasn't been already",
@@ -1556,10 +1492,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "Taylor Swift",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 24,
@@ -1577,7 +1510,6 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@NateTheGr8ness",
           "commentDate": "1 year ago",
           "commentTitle": "Adele has the kind of voice you never get tired of listening to.",
@@ -1585,7 +1517,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@martafsouza1",
           "commentDate": "1 year ago",
           "commentTitle": "Música maravilhosa ❤",
@@ -1593,7 +1524,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@sandyrafaela7030",
           "commentDate": "2 months ago",
           "commentTitle": " Canta com a alma isso é um exemplo de cantora ",
@@ -1601,7 +1531,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@talishakyle9053",
           "commentDate": "1 year ago",
           "commentTitle": "I’ve always been an avid Adele fan, but wow… I always feel like she’s speaking directly to me… Talented just isn’t a word that does her justice🔥",
@@ -1609,7 +1538,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@eitakriamdt",
           "commentDate": "3 months ago",
           "commentTitle": " I always come back to this song when I needed encouragement to not dwell on my past and forgive myself for being too young, not knowing how to help myself back then. Thank you Adele, you're one of a kind.",
@@ -1617,7 +1545,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@emmettkasey1087",
           "commentDate": "1 year ago",
           "commentTitle": "  adele really has one of the most unique, unmatchable voices on this planet",
@@ -1625,7 +1552,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": " @GerdBadur  ",
           "commentDate": "3 months ago",
           "commentTitle": " One of the best performances I've ever heard. Great vocals. Kudos to the piano and bass as well. ",
@@ -1633,7 +1559,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@JoeCompanyInc ",
           "commentDate": "1 year ago",
           "commentTitle": " I'm so glad that Adele bounced back from disastrous issues within her personal life and came out stronger and wiser than ever before. Now she can reflect and tell her story though her new music to share with the world. I love and missed Adele. So glad she's back. 😱😍💖❤  ",
@@ -1641,7 +1566,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@marciosilva5933 ",
           "commentDate": "1 month ago",
           "commentTitle": "  Adele contrária as expectativas com seu novo visual super atraente. Com seu timbre voz único nos trás mais uma bela canção. hoje uma das maiores cantoras da pop music👏👏👏👏👏👏 ",
@@ -1649,7 +1573,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@bakashabajoel1703",
           "commentDate": "1 month ago",
           "commentTitle": " Adele's voice is therapy to me itt touches souls and heals depression",
@@ -1657,7 +1580,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@carolgiobom",
           "commentDate": "1 year ago",
           "commentTitle": " Quanta perfeição! Nunca canso de ouvi-la, me emociono sempre. Aliás, são tantas emoções diferentes em cada música, por isso amo tanto",
@@ -1665,7 +1587,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@nevisperezmunoz1276",
           "commentDate": "3 weeks ago",
           "commentTitle": "Adele es sentimiento al alma y así como se expresa su voz y musica❤ ",
@@ -1674,8 +1595,9 @@
         }
       ],
       "subscribe": {
-        "chanelName": "Adele",
-        "subscribeHere": false
+        "subscribe": {
+          "subscribe": false
+        }
       }
     },
     {
@@ -1694,7 +1616,6 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@aritramondal5362",
           "commentDate": "2 year ago",
           "commentTitle": " Separated by borders United by coke studio..more than 50% of the listeners are from india Bangladesh this portrays that the time has come to end the hostility between these two nations...love from India 🇮🇳🇮🇳",
@@ -1702,7 +1623,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@shristyshree6941",
           "commentDate": "1 day ago",
           "commentTitle": " the amount of times i played this is absolutely unhealthy 😭 next level pure this song isss <3",
@@ -1710,7 +1630,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@muhammadashady5429",
           "commentDate": "1 month ago",
           "commentTitle": "My late mum loved this song very much & always described the lyrics as very beautiful and well crafted. Whenever I heard this song, I would always remember the everlasting moments we had together. ",
@@ -1718,7 +1637,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@askkk5890",
           "commentDate": "9 hours ago",
           "commentTitle": " Brings out  feeling of heartache and pain from inside which I didn’t even know I had",
@@ -1726,7 +1644,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@BohlimCreation",
           "commentDate": "1 year ago",
           "commentTitle": " This type of songs shouldn't be polluted by Tiktok,reels,moj..etc... Pure Authentic that touches our souls!!",
@@ -1734,7 +1651,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@muktheralahi7896",
           "commentDate": "2 weeks ago",
           "commentTitle": "The way the female singer looked and smiled to him when he sung on her chehra was marvelous. Loved it!! ❤ ",
@@ -1742,7 +1658,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@RaghavChordia",
           "commentDate": "1 month ago",
           "commentTitle": " Rahat Fateh Ali Khan- The man, the myth, the legend!❤. The high notes he took at the end of the song were just insane.",
@@ -1750,7 +1665,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@vanshikamanjhi5018",
           "commentDate": "1 month ago",
           "commentTitle": " If love could be expressed,then it should be in this way❤ Thankyou for this✨ Still with the same fragrance in 2023💫 ",
@@ -1758,7 +1672,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@kothsamongzar4351",
           "commentDate": "1 month ago",
           "commentTitle": " There are things in this world that stays the same from generation to generation and touch hearts and this song is one of them. ",
@@ -1766,10 +1679,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "Coke Studio",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 26,
@@ -1787,7 +1697,6 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@tecendacalentivay7274",
           "commentDate": "1 month ago (edited)",
           "commentTitle": "Today I listened new pasoori, I am Indian and one of the biggest fans of Arijit Singh but Real pasoori is masterclass......So I came here to listen it again just to refresh my mind!!",
@@ -1795,7 +1704,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@haranmandal5051",
           "commentDate": "1 month ago (edited)",
           "commentTitle": " I'm an Indian and totally agree that ,this is batter than Indian pasoori virsion ! I love this song ❤️ ",
@@ -1803,7 +1711,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@SadmanNayeemTonmoy-dy1nn",
           "commentDate": "4 weeks ago",
           "commentTitle": " The Og Pasoori is Thousands Times Better Than The New One.🇧🇩🖤🖤🖤  ",
@@ -1811,7 +1718,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@kingpak9651",
           "commentDate": "3 weeks ago",
           "commentTitle": "I am really happy to see our indian brothers and sisters here with positive comments 👌🇵🇰❤️🇮🇳.",
@@ -1819,7 +1725,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@mmurtaza5145",
           "commentDate": "1 month ago",
           "commentTitle": " Congratulations to the team and the singer for achieving the most viewed Coke Studio song. ",
@@ -1827,7 +1732,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@DanialWadi",
           "commentDate": "4 days ago",
           "commentTitle": "  Everything in one song. 🎉🎉🎉 ",
@@ -1835,7 +1739,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@wasimkhan-ij8zf",
           "commentDate": "1 month ago",
           "commentTitle": "Respect for shae gill and Ali sethi increase after Bollywood version",
@@ -1843,7 +1746,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@thoorigaiyin.kadhal",
           "commentDate": "4 weeks ago",
           "commentTitle": " pure art which gives me abundant amount memories both good and bitter ✨🥹❤️ ",
@@ -1851,10 +1753,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "Coke Studio",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 27,
@@ -1872,7 +1771,6 @@
       "dislike": 3,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@ayshahanin2657",
           "commentDate": "2 weeks ago (edited)",
           "commentTitle": " সারাদিন সুখি হওয়ার অভিনয় করা শেষে মধ্য রাতের অন্ধকার ঘরে নিজেই নিজের অভিনয়ের কাছে পরাজিত হয়ে, এ দু'চোখ কান্নার কাজে লিপ্ত হয়🖤 ",
@@ -1880,7 +1778,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@mdakib8243",
           "commentDate": "13 days ago",
           "commentTitle": "তোমাকে পেয়ে গেলে হয়তো এতো সুন্দর একটা গান 🎵 আর শোনা হতো প্রিয়। স্মৃতি রেখে গেলাম। যুগ যুগ ধরে মানুষ যখন এই গানটা শুনতে আসবে তখন কেউ like দিলে notification 🔔 পেয়ে আমি আবারো আসবো প্রিয় গানটা শুনতে।🎵💔🥺 ",
@@ -1888,7 +1785,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@bijoy7125",
           "commentDate": "9 days ago",
           "commentTitle": " জান তুমি কি সত্যি আমায় ভুলে গেছো,বিশ্বাস করো, আমি কিন্তু তোমাকে এখনো খুব যত্ন করে আমার মনের  ভিতরে রেখে দিয়েছি,কি করবো বলো, তুমি যে আমার প্রথম ভালোবাসা, আমি তোমাকে কখনোই ভুলতে পারবো না। I love You  Jan❤️❤️❤️❤️❤️❤️ And I miss You ",
@@ -1896,7 +1792,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@mijangaming2855",
           "commentDate": "9 days ago",
           "commentTitle": "  তোমাকে পেয়ে গেলে হয়তো এতো সুন্দর একটা গান শোনা হতো না প্রিয়।😇স্নৃতি রেখে গেলাম।🙃যুগ যুগ ধরে মানুষ  যখন গানটা শুনতে আসবে তখন কেউ Like. দিলে Notification পেয়ে আমি আবারো শুনতে  আসবো প্রিয় গানটা😊😊",
@@ -1904,7 +1799,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@ruhi6335",
           "commentDate": "2 weeks ago",
           "commentTitle": " অথিতের কথা গুলো মনে পড়ে গানটি শুনলে ক্লাস 6টার কথা 😢😢😢😢😢 এখন আমি ক্লাস 10 এ পড়ি ,একজনকে অনেক ভালোবাসতাম ,অবসেষে বুজলাম ,আমি ভুল সিদ্ধান্ত নিয়েছি 😅😅😅😅😅❤ ভুলটা আমারই 🙂🙂 ",
@@ -1912,7 +1806,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@tanvirhasan9895",
           "commentDate": "2 weeks ago",
           "commentTitle": "ছেকা খাইনি তাও গানটাকে  অনুভব করতে পারি হারিয়ে যাওয়ার কষ্টটা বুঝতে পারি😅😅",
@@ -1920,7 +1813,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@ashikchowdhury7267",
           "commentDate": "2 weeks ago",
           "commentTitle": " Sakib তোমার Lofi remake গুলো bast হয় ❤❤❤bast of lack❤ ",
@@ -1928,10 +1820,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "Coke Studio",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 28,
@@ -1949,7 +1838,6 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@santusaha1640",
           "commentDate": "1 month ago (edited)",
           "commentTitle": " এটা শুধু বাংলাদেশের মানুষদের গান নয়.. এই গান বাঁচিয়ে রেখেছে হাজারো শিরোনামহীন একাকিত্বে জ্বলতে থাকা মানুষদের😑.. ভালোবাসা শুধুমাত্র ভারতবর্ষ থেকেই নয়.. ভালোবাসা পৃথিবীর সমস্ত শিরোনামহীন মানুষগুলোর থেকে যাদের একাকিত্বের চিৎকার কেউ শুনতে পারে না❤❤ ভালো থাকবেন 🙂 ",
@@ -1957,7 +1845,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@souvikdey7449",
           "commentDate": "4 months ago (edited)",
           "commentTitle": "  It's not only a song, It's a medicine for people like us. When we feel suffocation in the middle of fake people around us it works like an inhaler. ",
@@ -1965,7 +1852,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@sarwarmorshed5172",
           "commentDate": "1 year ago",
           "commentTitle": " শিরোনামহীন কোন গানের দল নয়, এটি আমাদের ভেঙে যাওয়া হৃদয় গুলোর ইমোশন। ",
@@ -1973,7 +1859,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@souviksikder575",
           "commentDate": "2 months ago",
           "commentTitle": " আমিঃ প্রতিবেশী রাষ্ট্র ভারত থেকে 🇮🇳 এই গানটা আমি আরো বছর কুড়ি পরে, আমার পরবর্তী প্রজন্মকে শোনাবই , দেখবো সময়ের স্রোতে কি মানুষের আবেগ আচ্ছন্ন রুচিবোধ বদলায় কি না ,?!",
@@ -1981,7 +1866,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@asif298",
           "commentDate": "2 years ago",
           "commentTitle": " তাকে ঘৃণাতে রাখিনা; প্রার্থনাতেও না! যে ছেড়ে গেছে, সমস্ত অধিকারের গল্প মুছে ফেলেই ছেড়ে গেছে: সে আমার কেউ না!🖤 ",
@@ -1989,7 +1873,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@mdhomaun5684",
           "commentDate": "2 months ago",
           "commentTitle": "  ১০০ বছর পরেও এই গানগুলোকে বাঁচিয়ে রাখার জন্য তোমাদের ধন্যবাদ প্রিয় মানুষগুলোকে হারিয়ে ফেলার পর এই গানগুলো আমাদের জেনারেশন এর প্রাণ ছিলো ",
@@ -1997,7 +1880,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@noyonhossain3304",
           "commentDate": "5 months ago",
           "commentTitle": "একাকিত্ব কে জয় করে যারা বেচে থাকে তারাই প্রকৃত শিরোনামহীন মানুষ😔🥀 ",
@@ -2005,10 +1887,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "Shironamhin",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 29,
@@ -2026,7 +1905,6 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@rakibahmed1056",
           "commentDate": "4 months ago (edited)",
           "commentTitle": " স্মৃতি রেখে গেলাম, বহুদিন পর কেউ আবার লাইক দিলে আবার এসে শোনা হবে !  সম্পূর্ন মুভিটার শুটিং হয়েছিল আমার এলাকায় যখন আমি খুব ছোট ছিলাম। ",
@@ -2034,7 +1912,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@user-ki6we6xq2c",
           "commentDate": "1 year ago",
           "commentTitle": "এই গানটা একবার দুইবার তিনবার দশবার ১০০ বার শোনার পরে খারাপ লাগবে কিন্তু কুরআনুল কারীমের তেলাওয়াত যতই শুনবেন ততই মুগ্ধ হবেন",
@@ -2042,7 +1919,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@toyhousebd009",
           "commentDate": "3 months ago",
           "commentTitle": " স্মৃতি রেখে গেলাম,, যুগ যুগ ধরে মানুষ যখন এই গানটি  শুনতে আসবে,, তখন কেউ লাইক দিলে নোটিফিকেশন পেয়ে আমিও আবার শুনতে আসবো  প্রিয় এই গানটি 🥰🥰🥰 ",
@@ -2050,7 +1926,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@jmpeahiaislam4085",
           "commentDate": "11 months ago",
           "commentTitle": "৫০ বছর পরে আমি আমার নাতী নাতনীদের এই গান গুলো শোনাবো আর বলবো যে শোন আমাদের সময়ের গান গুলোর ভাষা কতো স্মৃতি মধুর অর্থপূর্ণ ছিলো꫰ 50 years later, I will listen to these songs to my grandchildren and tell them that the language of the songs of our time was so sweet and meaningful.",
@@ -2058,7 +1933,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@m4rubelgamer572",
           "commentDate": "2 months ago",
           "commentTitle": " যদিও মাঝে মাঝে আমার চুখ অশ্রুসিক্ত,তবুও আমি আমার রবের সিদ্ধান্তের উপর সন্তুষ্ট। ",
@@ -2066,7 +1940,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@mdhanif3681",
           "commentDate": "2 months ago",
           "commentTitle": " হইতো তোমাকে না হারালে এত সুন্দর একটি গানের অনুভূতিটা সেই ভাবে নিতে পারতাম না 😢 - স্মৃতি রেখে গেলাম, যখনই কেউ এই মন্তব্য টিতে লাইক করবে, আবারো আসবো ফিরে, এই গানটি শুনতে😢❤ ",
@@ -2074,7 +1947,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@khankhairul6312",
           "commentDate": "1 months ago",
           "commentTitle": "  তোমাকে পেয়ে গেলে হয়তো এতো সুন্দর গান আর শোনা হতো না প্রিয়। স্মৃতি রেখে গেলাম যুগ যুগ ধরে মানুষ যখন এই গানটা শুনতে আসবে তখন কেউ লাইক দিলে নোটিফিকেশন পেয়ে আবারও এই গানটা শুনতে আসবো।💔🥀 ",
@@ -2082,10 +1954,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "G-Serise",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 30,
@@ -2103,7 +1972,6 @@
       "dislike": 0,
       "comments": [
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@guutttyhg8184",
           "commentDate": "5 months ago (edited)",
           "commentTitle": " যারা যারা ২০২৩ এ এসেও এই প্রানবন্ত গানটি শুনছেন তাদের কে বলছি সত্যি আপনার গানের রুচি অনেক ভালো ☺️☺️☺️ ",
@@ -2111,7 +1979,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@jmpeahiaislam4085",
           "commentDate": "11 months ago",
           "commentTitle": "  ৫০ বছর পরে আমি আমার নাতী নাতনীদের এই গান গুলো শোনাবো আর বলবো যে শোন আমাদের সময়ের গান গুলোর ভাষা কতো শ্রুতিমধুর অর্থপূর্ণ ছিলো꫰ 50 years later, I will listen to these songs to my grandchildren and tell them that the language of the songs of our time was so melodious and meaningful. ",
@@ -2119,7 +1986,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@anomalousnayon2156",
           "commentDate": "9 months ago",
           "commentTitle": " গানের সাথে মিশে আছে এক যুগ আগের বাংলার প্রাকৃতিক পরিবেশ, মানুষের সাধারণ জীবনযাত্রা,সাথে শৈশবের হারিয়ে যাওয়া স্মৃতি 😍😍",
@@ -2127,7 +1993,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@behappybyadnan",
           "commentDate": "10 months ago",
           "commentTitle": " শৈশবের কতো স্মৃতি কতো আবেগ ভালোবাসা লুকিয়ে আছে গানগুলোর মাঝে...!  আমাদের সময়টা না কতো ভালো ছিলো 💗💗💗 ",
@@ -2135,7 +2000,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@75.sairulislamashik32",
           "commentDate": "1 year ago (edited)",
           "commentTitle": "  সালটা ছিলো ২০১০,, কোথায় যেনো এই গান টা শুনছিলাম,, তখন কতো যে কষ্ট করছি গানটা খুজছি😔 পাই নি,,, আজ এত বছর পর ও কোথাও যেন শুনলাম,,,  কিন্তু এইবার আর হতাশ হতে হলো না,,, ☺️ মন টা অনেক খুশি লাগছে,, সেই স্মৃতি টা মনে পরে গেলো,, সেই নকিয়ার যুগের কথা,,, ❤️❤️ ",
@@ -2143,16 +2007,13 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@Unlucky-np3rv",
           "commentDate": "9 months ago",
           "commentTitle": " বস্তিমার্কা ও মাইয়া ও মাইয়া তুই অপরাধী রে গানের যুগের ছেলে মেয়েরা এই গানের মর্ম বুঝবে নাহ৷  হাবিব ওয়াহিদের গান আর রিয়াজ সোহানা আপুর অভিনয় সব মিলিয়ে অস্থির। 💖 ",
           "like": 66,
           "dislike": 0
         },
-
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@faheem_bruh",
           "commentDate": "1 year ago",
           "commentTitle": " So many memories are attached with these name. The most beautiful times i spent with their songs, used to buy their CD's with my savings from pocket money. Bring those days back please, although it's impossible 😓 ",
@@ -2160,7 +2021,6 @@
           "dislike": 0
         },
         {
-          "userImg": "https://i.postimg.cc/XvJHcwTx/user.png",
           "userName": "@konalkitchenbd",
           "commentDate": "1 month ago",
           "commentTitle": " Sin is a kind of love.  You fall in love with it.  Get addicted to it.  Keep doing it again and again.  This part of Surah Furqan (from verse 63 to the end) is actually about the competition of love.  Because you love that sin, that joy so much that you don't want to give it up.  If you give up this fear, you may feel a lot of pain.  A rush of sorrow will come and embrace you.",
@@ -2168,10 +2028,7 @@
           "dislike": 0
         }
       ],
-      "subscribe": {
-        "chanelName": "Laser Vision",
-        "subscribeHere": false
-      }
+      "subscribe": false
     },
     {
       "id": 31,
@@ -2187,10 +2044,79 @@
       "publishedAt": "Nov 2, 2017",
       "like": 25000,
       "dislike": 0,
-      "subscribe": {
-        "chanelName": "Channel i Tv",
-        "subscribeHere": false
-      }
+      "comments": [
+        {
+          "userName": "@bahauddinchishte",
+          "commentDate": "2 years ago (edited)",
+          "commentTitle": " প্রায়ত আইয়ুব বাচ্চু স্যার বলেছেন হাবিবের গান শুনলে বাংলা গানের যে প্রাণ আছে সেটা বোঝা যায়💙",
+          "like": 435,
+          "dislike": 0
+        },
+        {
+          "userName": "@rkendless",
+          "commentDate": "2 years ago",
+          "commentTitle": "  দীর্ঘ নিঃশ্বাস ত্যাগ করলাম গানটা শুনে। একেই বলে বিশুদ্ধ বাংলা গান। ধন্যবাদ হুমায়ূন স্যার এবং হাবিব ওয়াহিদ ভাই ",
+          "like": 162,
+          "dislike": 0
+        },
+        {
+          "userName": "@lonew0lf563",
+          "commentDate": "1 years ago",
+          "commentTitle": "হাবীব ভাইয়ের গান মানে আমার ছোটবেলা, কতশত স্মৃতি আমরা যারা ৯০ দশকের মাঝামাঝিতে জন্ম নিয়েছি।  ",
+          "like": 26,
+          "dislike": 0
+        },
+        {
+          "userName": "@didarulmohsin3641",
+          "commentDate": "1 years ago",
+          "commentTitle": " When I hear this song, my mind reminds me one of the most magical men in bangla film industry, Miss you Humayun Ahmed Sir.",
+          "like": 17,
+          "dislike": 0
+        },
+        {
+          "userName": "@ramim7776 ",
+          "commentDate": "1 years ago",
+          "commentTitle": "  Humayun Ahmed sir was a gift for this country. His way to portrait something is just on another level.",
+          "like": 11,
+          "dislike": 0
+        },
+        {
+          "userName": "@sabbiralam8745",
+          "commentDate": "11 months ago",
+          "commentTitle": "Every year since 2008 till now when it rains, I listen to this song repeatedly and keep remember my childhood ( which i spent in the village)  was really colourful  🌾🏕️",
+          "like": 8,
+          "dislike": 0
+        },
+        {
+          "userName": "@purnimajuthi2621",
+          "commentDate": "1 year ago (edited)",
+          "commentTitle": " আমি খুব ভাগ্যবান  এই সোনালি যুগে আমি ছিলাম,,কতো মধুর সপ্ন ছিলো তখন দুচোখে।নব্বই দশকের ছেলে মেয়েরা পেয়েছে সেই সুন্দর সময় আর সুমধুর গান🥰",
+          "like": 67,
+          "dislike": 0
+        },
+        {
+          "userName": "@bihangakamal311",
+          "commentDate": "1 year ago",
+          "commentTitle": " কিছু গান এত অদ্ভুত সুন্দর যে ভাষায় প্রকাশ করা অসম্ভব মনে হয়। বৃষ্টি হলে এই গান ছাড়া অন্য কোনো গান শোনার কথা ভাবতেও পারি না।❤️ ",
+          "like": 51,
+          "dislike": 0
+        },
+        {
+          "userName": "@konalkitchenbd",
+          "commentDate": "1 month ago",
+          "commentTitle": " Sin is a kind of love.  You fall in love with it.  Get addicted to it.  Keep doing it again and again.  This part of Surah Furqan (from verse 63 to the end) is actually about the competition of love.  Because you love that sin, that joy so much that you don't want to give it up.  If you give up this fear, you may feel a lot of pain.  A rush of sorrow will come and embrace you. ",
+          "like": 0,
+          "dislike": 0
+        },
+        {
+          "userName": "@oeylyntinley7066",
+          "commentDate": "1 month ago",
+          "commentTitle": "আষাঢ়ের ঝুম বৃষ্টি  + মেঘলা বিকেল+ অন্ধকার ঘর সাথে বাদলা দিনে মনে পড়ে  এ যেন এক অন্যরকম অনুভূতি।",
+          "like": 12,
+          "dislike": 0
+        }
+      ],
+      "subscribe": false
     },
     {
       "id": 32,
@@ -2206,10 +2132,8 @@
       "publishedAt": "Apr 17, 2023",
       "like": 26026,
       "dislike": 0,
-      "subscribe": {
-        "chanelName": "Voot Kids",
-        "subscribeHere": false
-      }
+      "comments": [],
+      "subscribe": false
     },
     {
       "id": 33,
@@ -2225,10 +2149,8 @@
       "publishedAt": "May 18, 2022",
       "like": 14000,
       "dislike": 0,
-      "subscribe": {
-        "chanelName": "Voot Kids",
-        "subscribeHere": false
-      }
+      "comments": [],
+      "subscribe": false
     },
     {
       "id": 34,
@@ -2244,10 +2166,8 @@
       "publishedAt": "Jun 19, 2022",
       "like": 40000,
       "dislike": 0,
-      "subscribe": {
-        "chanelName": "Voot Kids",
-        "subscribeHere": false
-      }
+      "comments": [],
+      "subscribe": false
     },
     {
       "id": 35,
@@ -2263,10 +2183,8 @@
       "publishedAt": "Oct 29, 2022",
       "like": 31000,
       "dislike": 7,
-      "subscribe": {
-        "chanelName": "Voot Kids",
-        "subscribeHere": false
-      }
+      "comments": [],
+      "subscribe": false
     },
     {
       "id": 36,
@@ -2282,10 +2200,93 @@
       "publishedAt": "Aug 19, 2021",
       "like": 14000,
       "dislike": 0,
-      "subscribe": {
-        "chanelName": "Channel i Classic",
-        "subscribeHere": false
-      }
+      "comments": [
+        {
+          "userName": "@sobujsarker8679",
+          "commentDate": "2 years ago",
+          "commentTitle": "ছোট ছোট ক্লিপ দিয়ে যে নাটক হতে পারে একমাত্র হুমায়ুন স্যারের পক্ষেই সম্ভব",
+          "like": 140,
+          "dislike": 0
+        },
+        {
+          "userName": "@kabbolibrary",
+          "commentDate": "11 months ago",
+          "commentTitle": " সবাইকে এমন দক্ষ ভাবে অভিনয় শিখিয়েছেন হুমায়ন স্যার 💓",
+          "like": 20,
+          "dislike": 0
+        },
+        {
+          "userName": "@rumaakter3273",
+          "commentDate": "2 months ago",
+          "commentTitle": " মিঠু আপা আর রিয়াজ ভাইয়ার বিষ খাওয়ার অভিনয় দেখে আমি হাসতে হাসতে শেষ 😂😂😂😂 ",
+          "like": 2,
+          "dislike": 0
+        },
+        {
+          "userName": "@j.kpiano1140",
+          "commentDate": "3 years ago",
+          "commentTitle": " নাটকে যে মুভির অংশটা দেখানো হয়েছে তা হলো চন্দ্রকথা ,, হুমায়ুন আহমেদ স্যার এর একটা অসাধারণ মুভি 😍😍😍 ",
+          "like": 38,
+          "dislike": 0
+        },
+        {
+          "userName": "@raysulislamraju1097",
+          "commentDate": "3 years ago",
+          "commentTitle": "রিয়াজ ভাই আর মুনিরা আন্টির অভিনয় টা জোশ ছিলো 😂😂😂",
+          "like": 126,
+          "dislike": 0
+        },
+        {
+          "userName": "@abuabdullah7966",
+          "commentDate": "3 years ago",
+          "commentTitle": "বহুত দিন পর অনেক হাসছি ছখিনার নয়িকারে বিষ খাওয়ানোর  অভিনয়  দেখে।",
+          "like": 63,
+          "dislike": 0
+        },
+        {
+          "userName": "@farhanakausar1390",
+          "commentDate": "3 years ago",
+          "commentTitle": "সত্যি বুয়াদের বেশি সুখ সহ্য হয়না। এ নাটক দেখে বুঝতে পারলাম। তাই এতো আদরের পর ও আমাদের বাড়িতে বুয়া থাকে না।",
+          "like": 212,
+          "dislike": 0
+        },
+        {
+          "userName": "@mdakashhossen7426",
+          "commentDate": "4 months ago",
+          "commentTitle": " ভালোবাসা অবিরাম  সকল গুণী শিল্পী ও নাটকের পরিচালক ডিরেক্টর সহ সংশ্লিষ্ট সকলের  প্রতি ♥️ আমাদের এত সুন্দর একটা নাটক উপহার দেয়ার জন্য ধন্যবাদ ❤️❤️💙💜 ",
+          "like": 0,
+          "dislike": 0
+        },
+        {
+          "userName": "@mdreza6199",
+          "commentDate": "3 years ago",
+          "commentTitle": " সুখ জিনিসটা সম্পূর্ণ আমাদের নিজেদের উপরই নির্ভর করে। কেউ যদি নিজেকে সুখী মনে না করে তবে সে কোনদিন ই সুখী হতে পারবে না।",
+          "like": 93,
+          "dislike": 0
+        },
+        {
+          "userName": "@ayeshatinny2912",
+          "commentDate": "2 years ago",
+          "commentTitle": "কিছু কিছু জিনিস কখনো অরুচি হয়না,তার মধ্যে একটা হল... মনিরা মিঠুর অভিনয়।",
+          "like": 12,
+          "dislike": 0
+        },
+        {
+          "userName": "@mdirfankhan5331",
+          "commentDate": "3 months ago (edited)",
+          "commentTitle": " মনিরা মিঠু বাড়িতে থেকে স্বর্ণ গহনা চুরি হয়েসি ওইটা দেখার পর এখন নাটকটা আবার দেখতে আসলাম নাটকের সাথে চুরির ঘটনা মিলে গিয়েছে 😂😂 ",
+          "like": 0,
+          "dislike": 0
+        },
+        {
+          "userName": "@belayethossain416",
+          "commentDate": "3 years ago",
+          "commentTitle": "  রিয়াজ ভাই আসলেই খুব ভালো মানুষ ২০২০ সাল এসেও কে কে নাটক টা দেখছেন লাইক দিয়ে জানাবেন 💔 ",
+          "like": 125,
+          "dislike": 0
+        }
+      ],
+      "subscribe": false
     }
   ]
 }

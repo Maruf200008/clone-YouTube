@@ -23,12 +23,13 @@ const Hero = ({ videoId }: { videoId: number }) => {
   const { data: video, isLoading, isError } = useGetVideoQuery(videoId);
 
   let content;
+  console.log("I call here");
 
   if (isLoading) {
     content = <div> Loading...</div>;
   } else if (!isLoading && isError) {
     content = <div> Somthing is rong!!!</div>;
-  } else {
+  } else if (!isLoading && !isError && video.length > 0) {
     content = video.map((v: VideoType) => (
       <div key={v.id} className=" grid grid-cols-12 gap-6">
         <div className=" col-span-9  ">

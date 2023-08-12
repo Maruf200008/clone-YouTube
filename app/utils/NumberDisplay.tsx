@@ -12,8 +12,6 @@ const formatNumber = (value: number) => {
   } else if (value >= 1000) {
     return numeral(value / 1000).format("0.a") + "K";
   } else {
-    console.log(value);
-
     return value.toString();
   }
 };

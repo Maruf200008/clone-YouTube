@@ -29,18 +29,21 @@ export const apiSlice = createApi({
         method: "PATCH",
         body: data,
       }),
-      async onQueryStarted({ id, data }, { dispatch, queryFulfilled }) {
-        console.log(id);
-        dispatch(
-          apiSlice.util.updateQueryData("getVideo", id, (draft) => {
-            console.log(draft); // Logging the updated draft here
-          })
-        );
-
+      async onQueryStarted({ id, data }, { queryFulfilled, dispatch }) {
         try {
           await queryFulfilled;
-        } catch {
-          // Handle errors
+          console.log(data);
+          dispatch(
+            apiSlice.util.updateQueryData(
+              "getVideo",
+              id.toString(),
+              (draft) => {
+                console.log(JSON.stringify(draft));
+              }
+            )
+          );
+        } catch (err) {
+          console.log(err);
         }
       },
     }),

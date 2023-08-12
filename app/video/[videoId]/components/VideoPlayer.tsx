@@ -5,7 +5,7 @@ import NumberDisplay from "@/app/utils/NumberDisplay";
 import { MdNotificationsActive } from "react-icons/md";
 
 import Image from "next/image";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { AiOutlineDislike, AiOutlineLike } from "react-icons/ai";
 import { LiaDownloadSolid } from "react-icons/lia";
 import { PiShareFatThin } from "react-icons/pi";
@@ -29,7 +29,8 @@ const VideoPlayer = ({
     thumbnails: string;
     id: number;
     tag: string;
-    subscribe: object;
+    subscribe: boolean;
+    comments: Array;
   };
 }) => {
   const {
@@ -47,16 +48,15 @@ const VideoPlayer = ({
     id = 0,
     tag = "",
     subscribe,
+    comments,
   } = video || {};
 
   const [updateVideo] = useUpdateVideoMutation();
 
   const [updateLike, setUpdateLike] = useState(like);
   const [updateDisLike, setUpdateDisLike] = useState(dislike);
-  const [updateSubscribe, setUpdateSubscribe] = useState(
-    subscribe?.subscribeHere
-  );
-  console.log(subscribe);
+
+  const [updateSubscribe, setUpdateSubscribe] = useState(subscribe);
   console.log(video);
 
   const handleLike = () => {
@@ -75,6 +75,7 @@ const VideoPlayer = ({
         subscriber,
         description,
         publishedAt,
+        comments,
         like: updateLike + 1,
         dislike,
       },
@@ -98,36 +99,26 @@ const VideoPlayer = ({
         description,
         publishedAt,
         like,
+        comments,
         dislike: updateDisLike + 1,
       },
     });
   };
 
   const handleSubscribe = () => {
-    setUpdateSubscribe(!updateSubscribe);
     console.log(updateSubscribe);
+
     updateVideo({
       id,
       data: {
-        id,
-        thumbnails,
-        videoUrl,
-        title,
-        chanelLogo,
-        views,
-        tag,
-        channelTitle,
-        subscribe: {
-          chanelName: channelTitle,
-          subscribeHere: !updateSubscribe,
-        },
-        description,
-        publishedAt,
-        like,
-        dislike,
+        subscribe: updateSubscribe,
       },
     });
   };
+
+  useEffect(() => {
+    handleSubscribe();
+  }, [updateSubscribe]);
 
   return (
     <>
@@ -168,7 +159,7 @@ const VideoPlayer = ({
 
               {updateSubscribe ? (
                 <button
-                  onClick={handleSubscribe}
+                  onClick={() => setUpdateSubscribe(!updateSubscribe)}
                   className=" flex items-center gap-3 text-sm bg-[#3f3f3f]  text-white transition px-4 py-2 rounded-full font-medium"
                 >
                   <div className=" text-lg">
@@ -178,7 +169,7 @@ const VideoPlayer = ({
                 </button>
               ) : (
                 <button
-                  onClick={handleSubscribe}
+                  onClick={() => setUpdateSubscribe(!updateSubscribe)}
                   className=" text-sm bg-white hover:bg-slate-200 transition px-4 py-2 rounded-full font-medium"
                 >
                   Subscribe
@@ -191,7 +182,7 @@ const VideoPlayer = ({
                 role="group"
               >
                 <button
-                  onClick={() => handleLike()}
+                  onClick={handleLike}
                   type="button"
                   className=" inline-flex items-center px-4 py-2 text-sm font-medium  rounded-l-full bg-[#222222]   text-white hover:bg-[#3f3f3f] transition  "
                 >
@@ -247,7 +238,7 @@ const VideoPlayer = ({
             publishedAt={publishedAt}
             views={views}
           />
-          <Comments />
+          <Comments comments={comments} />
         </div>
       </div>
     </>
