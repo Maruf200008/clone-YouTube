@@ -7,7 +7,7 @@ export const apiSlice = createApi({
   }),
   endpoints: (builder) => ({
     getVideos: builder.query({
-      query: ({ tag, search }) =>
+      query: ({ tag, search, id }) =>
         tag
           ? tag
             ? `/videos?tag=${tag}`
@@ -31,14 +31,14 @@ export const apiSlice = createApi({
       }),
       async onQueryStarted({ id, data }, { queryFulfilled, dispatch }) {
         try {
-          await queryFulfilled;
           console.log(data);
+          await queryFulfilled;
           dispatch(
             apiSlice.util.updateQueryData(
               "getVideo",
               id.toString(),
               (draft) => {
-                console.log(JSON.stringify(draft));
+                draft[0] = data;
               }
             )
           );

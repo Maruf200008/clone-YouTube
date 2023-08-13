@@ -3,6 +3,7 @@ import { createSlice } from "@reduxjs/toolkit";
 const initialState = {
   tag: "",
   search: "",
+  subscribe: "",
 };
 
 export const videosSlice = createSlice({
@@ -21,9 +22,12 @@ export const videosSlice = createSlice({
     removeTag: (state) => {
       state.tag = "";
     },
+    addSubscribe: (state, action) => {
+      state.subscribe = action.payload;
+    },
   },
 });
 
-export const { addTag, addSearch, removeSearch, removeTag } =
+export const { addTag, addSearch, removeSearch, removeTag, addSubscribe } =
   videosSlice.actions;
 export default videosSlice.reducer;
