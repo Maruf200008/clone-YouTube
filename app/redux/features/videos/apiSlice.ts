@@ -7,7 +7,7 @@ export const apiSlice = createApi({
   }),
   endpoints: (builder) => ({
     getVideos: builder.query({
-      query: ({ tag, search, id }) =>
+      query: ({ tag, search }) =>
         tag
           ? tag
             ? `/videos?tag=${tag}`
@@ -47,6 +47,34 @@ export const apiSlice = createApi({
         }
       },
     }),
+    addedComment: builder.mutation({
+      query: ({ id, data }) => ({
+        url: `/videos/${id}`,
+        method: "PATCH",
+        body: {
+          comments: data,
+        },
+      }),
+      async onQueryStarted({ id, data }, { queryFulfilled, dispatch }) {
+        try {
+          console.log(data);
+          const newComment = await queryFulfilled;
+          console.log(newComment);
+          dispatch(
+            apiSlice.util.updateQueryData(
+              "getVideo",
+              id.toString(),
+              (draft) => {
+                draft[0].comments = data;
+                console.log(JSON.stringify(draft));
+              }
+            )
+          );
+        } catch (err) {
+          console.log(err);
+        }
+      },
+    }),
   }),
 });
 
@@ -55,4 +83,5 @@ export const {
   useGetVideoQuery,
   useGetRelatedVideosQuery,
   useUpdateVideoMutation,
+  useAddedCommentMutation,
 } = apiSlice;

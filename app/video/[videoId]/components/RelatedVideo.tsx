@@ -42,7 +42,7 @@ const RelatedVideo = ({
         <div className=" text-white ">
           <Link href={`/video/${id}`} className=" text-[15px] ">{`${title.slice(
             0,
-            35
+            30
           )}...`}</Link>
           <p className=" text-[13px] text-[#787878] mt-2">{channelTitle}</p>
           <div className=" flex items-center gap-1 text-[11px] text-[#787878] ">

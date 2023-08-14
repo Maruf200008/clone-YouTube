@@ -4,13 +4,11 @@ import { useUpdateVideoMutation } from "@/app/redux/features/videos/apiSlice";
 import NumberDisplay from "@/app/utils/NumberDisplay";
 import { MdNotificationsActive } from "react-icons/md";
 
-import { addSubscribe } from "@/app/redux/features/videos/videosSlice";
 import Image from "next/image";
 import { useEffect, useState } from "react";
 import { AiOutlineDislike, AiOutlineLike } from "react-icons/ai";
 import { LiaDownloadSolid } from "react-icons/lia";
 import { PiShareFatThin } from "react-icons/pi";
-import { useDispatch } from "react-redux";
 import Comments from "./Comments";
 import Description from "./Description";
 
@@ -54,7 +52,6 @@ const VideoPlayer = ({
   } = video || {};
 
   const [updateVideo] = useUpdateVideoMutation();
-  const dispatch = useDispatch();
 
   const [updateLike, setUpdateLike] = useState(like);
   const [updateDisLike, setUpdateDisLike] = useState(dislike);
@@ -112,8 +109,6 @@ const VideoPlayer = ({
 
   const handleSubscribe = () => {
     console.log(updateSubscribe);
-    dispatch(addSubscribe(updateSubscribe));
-
     updateVideo({
       id,
       data: {
@@ -258,7 +253,7 @@ const VideoPlayer = ({
             publishedAt={publishedAt}
             views={views}
           />
-          <Comments comments={comments} />
+          <Comments comments={comments} id={id} />
         </div>
       </div>
     </>

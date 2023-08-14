@@ -1,6 +1,5 @@
 "use client";
 import { useGetVideoQuery } from "@/app/redux/features/videos/apiSlice";
-import { useSelector } from "react-redux";
 import RelatedVideos from "./RelatedVideos";
 import VideoPlayer from "./VideoPlayer";
 
@@ -22,9 +21,6 @@ const Hero = ({ videoId }: { videoId: number }) => {
   }
 
   const { data: video, isLoading, isError } = useGetVideoQuery(videoId);
-  const { subscribe } = useSelector((state) => state.videos);
-  console.log(subscribe);
-  console.log(video);
 
   let content;
   console.log("I call here");

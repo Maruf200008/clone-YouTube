@@ -4,6 +4,7 @@ const initialState = {
   tag: "",
   search: "",
   subscribe: "",
+  comments: [],
 };
 
 export const videosSlice = createSlice({
@@ -22,12 +23,12 @@ export const videosSlice = createSlice({
     removeTag: (state) => {
       state.tag = "";
     },
-    addSubscribe: (state, action) => {
-      state.subscribe = action.payload;
+    addComments: (state, action) => {
+      state.comments.push(action.payload);
     },
   },
 });
 
-export const { addTag, addSearch, removeSearch, removeTag, addSubscribe } =
+export const { addTag, addSearch, removeSearch, removeTag, addComments } =
   videosSlice.actions;
 export default videosSlice.reducer;

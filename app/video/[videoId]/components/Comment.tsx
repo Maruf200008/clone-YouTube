@@ -1,4 +1,5 @@
 import NumberDisplay from "@/app/utils/NumberDisplay";
+import moment from "moment";
 import { AiOutlineDislike, AiOutlineLike } from "react-icons/ai";
 import { BiSolidUser } from "react-icons/bi";
 const Comment = ({ comment }) => {
@@ -11,7 +12,9 @@ const Comment = ({ comment }) => {
       <div className=" text-white text-sm space-y-3 ">
         <div className=" flex items-center gap-3 ">
           <p>{userName}</p>
-          <p className="text-[13px] text-[#787878]">{commentDate}</p>
+          <p className="text-[13px] text-[#787878]">
+            {moment(commentDate).startOf("day").fromNow()}
+          </p>
         </div>
         <p>{commentTitle}</p>
         <div className=" flex items-center gap-3  ">
